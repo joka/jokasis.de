@@ -1,0 +1,380 @@
+<html>
+<head>
+<title>Protégé</title>
+<!-- metadata -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Bluefish 1.0.7"/>
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20050728" />
+<meta name="author" content="joka"/>
+<!-- configuration parameters -->
+<meta name="defaultView" content="outline" />
+<meta name="controlVis" content="hidden" /> 
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/joka/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<!--<script src="ui/default/slides.js" type="text/javascript"></script>-->
+<style type="text/css" media="all">
+
+.anim {width: 270px; height: 320px; position: relative; margin-top: 0.5em;}
+.anim img {position: absolute; top: 0; left: 0px;}
+.farbe1 {color:red;}
+.farbe2 {color:blue;}
+.farbe3 {color:green;}
+.farbe4 {color:yellow;}
+.farbe5 {color:maroon;}
+.farbe6 {color:purple;}
+
+
+</style>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+<!--<h1>24.1.2007</h1>-->
+<!--<h2>Protégé - ein Ontology Development Tool</h2>-->
+</div>
+
+</div>
+
+
+<!--<div class="presentation">-->
+
+<div class="slide">
+<h1>Protégé  und andere Ontology Development Tools</h1>
+<h2>24.1.2007 Joscha Krutzki Vorlesung Netzbasierte Informations System Fu-Berlin</h2>
+<h3
+>Was ist Protégé?</h3
+><p
+>Die Wurzeln des Projekts <a href="http://protege.stanford.edu"
+  >Protégé</a
+  > reichen bis 1987 zurück. Die ursprüngliche Idee war ein Framework zur Entwicklung von Programmen zur Bearbeitung von Ontologien, programmiert mit Opal. Mittlerweile ist es das zentrale opensource Ontology Development Tool mit Dutzenden Plugins. Der Standard-Funktionsumfang reicht von der Codengenerierung für Java über das gemeinsamen Erstellen großer Ontologien bis hin zur Verarbeitung von instance data. Die Entwicklung wird aus einem akademischen Background heraus vorangetrieben, gefördert vor allem von Institutionen aus dem Bereich Medizin.</p
+  >
+</div>
+
+<div class="slide">
+<h3
+>Aufbau Protégé</h3
+><p
+>Protégé ist als Framework aufgebaut. Intern werden die Daten mit <a href="http://www.ai.sri.com/~okbc/"
+  >OKBC</a
+  > (seit 1998 nicht mehr weiterentwickelt) gespeichert. Für das GUI und diverse Import/Exports gibt es Plugins. Das OWL-Plugin hat ein eigenes GUI und eine eigene Plugin Schnittstelle. Im Zusammenspiel mit dem Java <a href="http://jena.sourceforge.net/"
+  >Jena Framework</a
+  > erlaubt es die spezielle Verarbeitung von OWL und RDFS Dateien.</p
+  >
+</div>
+<div class="slide">
+    <h3>Aufbau Protege - Architektur</h3>
+    <img src="protege.png" />
+</div>
+<h3
+>Demonstration Protégé</h3
+><p
+>Die Ontologie wird über verschieden Views bearbeitet. Der OWL-Code wird dabei automatisch generiert. Eine direkte Bearbeitung des OWL-Codes ist nicht möglich.</p
+><h4
+>Standard Views für OWL</h4
+><div class="figure"
+><img src="protege-metadata.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Metadata - Ontologien registrieren</h4
+><div class="figure"
+><img src="protege-metadata.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Class</h4
+><p
+>View zur Erstellung von Klassen und deren Spezifikation durch restrictions. Die Bearbeitung ist stark abstrahiert vom OWL/RDFS Code. Dabei wird eine Vielzahl von eigenen Begriffen benutzt.</p
+><h5
+>Logic View</h5
+><p
+>&quot;Logic&quot; View für Klassen, etwas näher am OWL Code, gut zur Bearbeitung von restrictions.</p
+><div class="figure"
+><img src="protege-class-logic.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h5
+>Properties View</h5
+><p
+>View für Klassen mit spezieller Anzeige der relevanten Properties</p
+><div class="figure"
+><img src="protege-class-properties.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Properties</h4
+><p
+>View zur Erstellung von Properties</p
+><div class="figure"
+><img src="protege-properties.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Individuals</h4
+><p
+>View zur Erstellung von Individuals (instance data).</p
+><div class="figure"
+><img src="protege-individuals.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Forms</h4
+><p
+>Formeditor zur Erstellung eine individuellen graphischen Oberfläche zur Eingabe von Individuals</p
+><div class="figure"
+><img src="protege-forms.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h4
+>Reasoner</h4
+><p
+>Ein Reasoner überprüft die Konsistenz der Ontologie und wertet Ableitungsregeln aus. Dadurch werden Informationen erzeugt, die nicht direkt in die Ontologie geschrieben wurden.</p
+><ul
+><li
+  ><a href="http://www.sts.tu-harburg.de/~r.f.moeller/racer/"
+    >Racer</a
+    >, ein kommerzieller Reasoner (umsonst für den universitären Bereich)</li
+  ><li
+  ><a href="http://pellet.owldl.com/"
+    >Pellet</a
+    >, ein opensource Reasoner</li
+  ></ul
+><h5
+>Superklassen Ableiten (taxonomy)</h5
+><div class="figure"
+><img src="protege-taxonomy.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h5
+>Konsistenz überprüfen</h5
+><div class="figure"
+><img src="protege-conistency.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h5
+>SPARQL Abfragen</h5
+><div class="figure"
+><img src="protege-sparql.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h3
+>Plugins</h3
+><p
+>Die wichtigsten Plugins sind enthalten. Hier noch ein paar interessante. Mehr gibt es im <a href="http://protege.cim3.net/cgi-bin/wiki.pl/"
+  >Protégé Wiki</a
+  >.</p
+><ul
+><li
+  ><p
+    ><a href="http://www.google.de/url?sa=t&amp;ct=res&amp;cd=3&amp;url=http%3A%2F%2Fwww.ontospace.net%2Fpages%2F3%2Findex.htm&amp;ei=cTzwRcWhFJjs-AKq8O2mCA&amp;usg=__vUIbNnEhv6s08bKPkGzBM4-hkHI=&amp;sig2=DDRT36iwJ0gPpyNd0LVdDw"
+      >OntoBase</a
+      >, einbinden und bearbeiten einer relationalen Datenbank als Ontologie</p
+    ></li
+  ><li
+  ><p
+    ><a href="http://protege.cim3.net/cgi-bin/wiki.pl?XMLTab"
+      >XMLTab</a
+      >, import/export von Daten der Ontologie als XML</p
+    ></li
+  ></ul
+><div class="figure"
+><img src="XMLTab_Screenshot2.GIF"
+   /><p class="caption"
+  ></p
+  ></div
+><ul
+><li
+  >OntoVIZ, visualisieren von Ontologien, daneben gibt es noch diverse andere Plugins.</li
+  ></ul
+><div class="figure"
+><img src="protege-owlviz.png"
+   /><p class="caption"
+  ></p
+  ></div
+><h3
+>Features Protégé</h3
+>
+
+<pre
+><code
+  >* Graphischer Editor OWL/RDFS/RDF Dateien  
+
+* Modellieren von Ontologien 
+
+* Bearbeiten großer Datenmengen, ein Testlauf mit 10 MB Daten ohne Datenbank lief bei genügend Speicher problemlos, RDF Stores oder Relationale Datenbanken werden unterstützt.
+
+* Bearbeiten und Abfragen von instance data (Objekten)
+
+* Framework für Applikationen die Ontologien nutzen
+
+* Codegenerator für Java
+</code
+  ></pre
+><h3
+>Vorteile/Nachteile (getestet Protégé 3.2.1)</h3
+><pre
+><code
+  >* Vorteile:
+
+    * Bearbeitung großer Datenmengen
+
+    * sehr viele Plugins
+
+    * große user community und gute Tutorials
+
+    * opensource
+
+* Nachteile:
+
+    * import OWL-Ontologien scheitert manchmal
+
+    * öffnen rdfs Datei, im Auswahlmenü nur owl Dateien
+
+    * eigenes Vokabular für OWL, anders als beim W3C
+
+    * komplexe Software die viel Speicher braucht, bei mir traten  manchmal Fehler oder  Abstürze bei langen Sessions auf.
+</code
+  ></pre
+><h2
+>Altova SemanticWorks</h2
+><h4
+>Was ist SemanticWorks?</h4
+><p
+><a href="http://www.altova.com/products/semanticworks/semantic_web_rdf_owl_editor.html"
+  >SemanticWorks</a
+  > ist ein der OWL/RDFS/RDF Editor der Firma Atova, seit 2006 erhältlich. Altova ist markführer für XML tools wie XML Spy. Entsprechend sind auch die features von SemanticWorks</p
+><h4
+>Features</h4
+><ul
+><li
+  >Editieren von OWL/RDFS/RDF Code</li
+  ><li
+  >sehr Code naher graphischer Editor</li
+  ><li
+  >View zum Anlegen von Properties</li
+  ><li
+  >outline Fenster um Übersicht in der graphischen Ansicht zu gewinnen.</li
+  ><li
+  >Überprüfung der Konsistenz von OWL Dateien eingeschränkt möglich</li
+  ></ul
+><h4
+>Vorteile/Nachteile (getestet SemanticWorks 2006)</h4
+><p
+>Vorteile:</p
+><ul
+><li
+  >schnelles editieren von OWL/RDFS/RDF Code, insbesondere wenn man XML Spy gewohnt ist</li
+  ></ul
+><p
+>Nachteile:</p
+><ul
+><li
+  >keine großen Dateien (Testlauf mit 10 MB Datei schlägt fehl)</li
+  ><li
+  >unübersichtlich in der graphischen Ansicht</li
+  ><li
+  >kein richtiger Reasoner</li
+  ><li
+  >keine Umlaute bei den Namen von Ressourcen und individuals, importierte Ressourcen sind bei mir manchmal verschwunden</li
+  ><li
+  >teuer</li
+  ></ul
+><h2
+>Andere OWL Editoren</h2
+><ul
+><li
+  ><p
+    ><a href="http://www.topbraidcomposer.com/features.html"
+      >TopRaid Composer</a
+      >, kommerzieller OWL/RDFS/RDF Code Editor, basierend auf Eclipse und Jena. viele Features, vergleichbar mit Protégé, GoogleMaps Unterstüzung, Ableitungsregelen auch als SWRL, standardmäßig import von UML,XML Schema und Spreadsheets.</p
+    ></li
+  ><li
+  ><p
+    ><a href="http://www.mindswap.org/2004/SWOOP/"
+      >SWOOP</a
+      >, opensource, OWL Editor, funktioniert ähnlich Webbrowser (&quot;browsen&quot; von Ontologien).</p
+    ></li
+  ><li
+  ><p
+    ><a href="http://owl-eclipse.projects.semwebcentral.org/"
+      >SWeDE</a
+      >, opensource OWL/RDFS/RDF Code Editor mit Visualisation, Eclips Plugin.</p
+    ></li
+  ></ul
+><h2
+>Links</h2
+><h3
+>OWL und Ontologien</h3
+><ul
+><li
+  ><a href="http://de.wikipedia.org/wiki/Web_Ontology_Language"
+    >Wikipedia OWL</a
+    > Übersicht über OWL und Semantic Web</li
+  ><li
+  ><a href="http://www.w3.org/TR/owl-guide/"
+    >OWL beim W3C</a
+    ></li
+  ><li
+  ><a href="http://www.scientific-computing.com/scwjulaug05ontologies.html"
+    >Better computational descriptions of science</a
+    >, von Simon White 2005, über den Sinn der breiten Nutzung von Ontologien.</li
+  ><li
+  ><a href="http://www.heise.de/tr/artikel/52516/0"
+    >Tim Berners-Lee Interview über die Zukunft des Semantic Web</a
+    >, Technology Review 11/2004.</li
+  ></ul
+><h3
+>Protégé</h3
+><ul
+><li
+  ><a href="http://protege.stanford.edu/doc/users.html"
+    >Protégé Dokumentation</a
+    >, Tutorials, API Dokumentation und Information über die Projektentwicklung</li
+  ><li
+  ><p
+    ><a href="http://protege.cim3.net/cgi-bin/wiki.pl?WikiHomePage"
+      >Protégé Wiki</a
+      >, Plugins, kleiner HowTos</p
+    ></li
+  ><li
+  ><p
+    ><a href="http://www.cs.man.ac.uk/~rector/papers/common-errors-ekaw.html"
+      >OWL Pizzas: Practical Experience of Teaching OWL-DL: Common Errors &amp; Common Patterns</a
+      >, von A. Rector, N. Drummond, M. Horridge, J. Rogers, H. Knublauch, R. Stevens, H. Wang, C. Wroe 2004, sehr empfehlenswerte Tutorial zu OWL in Protégé mit vielen Tips um Fehler zu vermeiden.</p
+    ></li
+  ><li
+  ><p
+    ><a href="http://software.newsforge.com/software/06/01/24/1625250.shtml?tid=74"
+      >Capturing real-world knowledge with Protégé OWL</a
+      >, von James Tizard 2006, beschreibt die Vorteile Protégé und OWL im Alltag. Z.B. zum Programmieren oder flexiblen Speichern von Daten in einem Standardformat (OWL).</p
+    ></li
+  ></ul
+  >
+
+
+
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,16 @@
+destination: ./_site
+auto:        true
+server:      true
+lsi:         false
+server_port: 4000
+pygments:    true
+permalink:   date
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+exclude:
+    work
+    talks
+    ilb-statistik
+
+

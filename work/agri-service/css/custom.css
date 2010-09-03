@@ -1,0 +1,85 @@
+/** Dies ist ein extra CSS für einfache Änderungen an Farben, fonts. Die Kommentarzeichen müssen natürlich entfernt werden**/
+
+/* Formatierungen standard */
+/*
+body {
+   font-family: arial, helvetica, sans-serif;
+   font-size: 90%;
+   color:#000000;
+   background:#FFFFFF;
+   text-align: left;
+  } 
+h1,h2,h3 {font-size: 1em; font-weight:bold; }
+h1 {color:#55ab26;}
+a {
+   text-decoration: none;
+   font-weight: bold;
+   color: #55ab26;
+   outline: none;
+  }
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline}
+strong, b {
+     font-weight: bold;
+     color: #f61e3c;
+  }
+*/
+/* Formatierungen speziell*/
+/*
+#header{   
+        text-align:center;
+        color:#f6f9f4;
+        background: #ffffff url(../bilder/headerBackground.png) repeat-x left;
+        line-height: 24px;
+}
+#footer {
+     text-align: center;
+     background-color: #f1f1f1;
+     font-size: 0.7em;
+     color:#666666;
+     line-height: 25px;
+}
+#footer a {
+   color:#666666;
+   text-decoration: underline;
+   font-weight: normal;
+}
+div#columnBackground1 {
+   background-image: url(../bilder/navigationBackground.png);
+   background-repeat: repeat-y;
+}
+#mainContent {
+   background: #f1f1f1 url(../bilder/contentBackground.png) repeat-x bottom;
+}
+#newswrapper {
+   background-color: #c4e042;
+}
+#news {
+   font-weight:normal;
+   font-size: 0.9em;
+}
+.productText, .productKatalog {
+   font-size:0.8em; 
+}
+.product{
+      border: 1px solid #cccccc;
+}
+.productKatalog {}
+.productTitle {
+   background-color:#c7e345;
+}
+*/
+
+/* Format navigation */
+/*
+#navigation li ul { 
+   border: 1px solid #98f340;
+   background-color: #FFFFFF;
+}
+#navigation li li a {
+   font-weight: normal;
+}
+#navigation li a:hover, a.active, #navigation li:hover  {
+   background-color:#eef6c8;
+} 
+*/

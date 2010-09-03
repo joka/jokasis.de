@@ -1,0 +1,16 @@
+jokasis:
+  path: /home/joka/ruby/jokasis.de/css
+  custom_css:
+    screen.css:
+      - src/custom-screen.css 
+    ie.css:
+  semantic_classes:
+     "#heade, #footer": ".span-19 .prepend-1 .last"
+     "#logo, #navi": ".span-19 .last" 
+     "#content": ".span-16 .prepend-2 .append-1"
+     ".comments, .item, .title1, .item_meta, .item_body": ".last"
+     "#rightboxy": ".span-4 .last"
+
+
+
+

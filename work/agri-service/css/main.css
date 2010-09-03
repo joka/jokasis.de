@@ -1,0 +1,392 @@
+html,body{               
+   margin:0;
+   padding:0;
+   border:0;
+   height:100%;
+   
+}
+
+body{
+   min-width:1002px;  
+   text-align:center; 
+}
+
+/*Grundstruktur */
+
+#container{
+   margin-left:auto; 
+   margin-right:auto;
+   width:1002px;
+   height:100%;
+}
+
+
+#column1 {
+   width: 207px;
+   margin-right: 9px;
+   float: left;
+}
+
+
+#column2 {
+   width: 359px;
+   margin-right: 9px;
+   float:left;
+}
+
+
+#column3 {
+   width: 244px;
+   margin-right: 9px;
+   float:left;
+}
+#column4 {
+   width: 165px;
+   float:left;
+   clear:right;
+}
+
+
+#header{
+   width: 1002px;
+   height: 24px;
+   margin-bottom:8px;
+   overflow:hidden;
+   clear:both;
+}
+
+
+#footer {
+   float:left;
+   clear: both;
+   width:1002px; 
+   height:25px; 
+   overflow:hidden;
+}
+
+
+
+
+/*Hack für gleich hohe columns */
+
+
+
+div#columnBackground1 {
+
+   margin: 0px;
+   padding: 0px;
+   width: 100%;
+}
+
+.clear {
+   clear: both;
+   display: block;
+   height: 1px;
+   overflow: hidden;
+   margin: 0;
+   padding: 0;
+}
+
+
+
+/* Content Felder */
+
+#logo { 
+   width: 207px;
+   height:174px;  
+   display:block;
+   margin:0;
+   padding:0;
+}
+
+
+#titlePicture {
+   height:165px;
+   width: 359px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 9px;
+
+}
+
+
+
+
+#mainContent div{
+   padding: 0 10px 40px 10px;
+   font-size: 1em;
+
+}
+
+
+#newswrapper {
+   margin-bottom: 9px;
+   width: 244px;
+   height:165px;
+}
+
+
+#newsFooter {
+   position: absolute;
+   top: 170px;  
+   display:block;
+   width: 224px;
+
+}
+
+
+
+.product{
+   padding: 3px 3px 0 3px;
+   margin-bottom: 9px;
+}
+
+.productText, .productKatalog {
+   clear: both;
+}
+
+.productTitle {
+   width:236px; 
+}
+
+.banner {margin-bottom: 9px;}
+
+
+
+
+/* Navigation */
+
+
+/*alle Listeneinträge */   
+#navigation, #navigation ul, #navigation li { 
+      padding: 0;
+      margin: 0;
+      border: 0;
+      list-style: none;
+      float : left; 
+      clear:both;     
+      width : 207px;
+}
+
+
+
+
+#navigation li {
+   background: url(../bilder/navigationBackground.png)  repeat-y bottom left;
+   border-bottom: 1px solid #98f340;
+
+   position : relative;
+   float : left;
+   line-height : 1.25em;
+}
+
+#navigation li a {
+   width : 167px;
+   display : block;
+   text-decoration : none;
+   padding: 7px 20px 7px 11px;
+   margin-left: 9px;
+}
+
+
+.subNavigation  {
+   background:url(../bilder/arrow2.gif) no-repeat right center;
+}
+
+
+/* 2. Ebene Listeneinträge */
+
+#navigation li ul { 
+   position : absolute;
+   left: -999em;
+   margin-left : 207px;
+   margin-top : -1.85em;
+}
+
+#navigation li li {
+   background: none;
+   border: none;
+   margin: 0;
+}
+
+
+#navigation li li a {
+   margin:0;
+   width: 187px;
+   padding: 7px 10px 7px 10px;
+}
+
+
+
+/*3. Ebene Listeneinträge */
+
+#navigation li ul ul { 
+   left: -999em;
+}
+
+
+
+/* hidden machen */                
+
+#navigation li:hover ul ul, #navigation li:hover ul ul ul, #navigation li.sfhover ul ul, #navigation li.sfhover ul ul ul {
+   left: -999em;
+}
+
+#navigation li:hover ul, #navigation li li:hover ul, #navigation li li li:hover ul, #navigation li.sfhover ul, #navigation li li.sfhover ul, #navigation li li li.sfhover ul {
+   left: auto;
+}     
+
+
+
+/* Navigation für Impressum, Kontakt,.. */
+
+#subNavigation {
+   float:right;
+   font-size: 0.9em;
+   padding: 0 10px 0 10px;
+}
+
+
+
+
+
+/* Formatierungen Standard */
+
+
+body {
+   font-family: arial, helvetica, sans-serif;
+   font-size: 90%;
+   color:#000000;
+   background:#FFFFFF;
+   text-align: left;
+
+  }
+
+  h1,h2,h3 {padding:0;margin:0; border:0; font-size: 1em; font-weight:bold; }
+
+  h2 {   
+     float:left;
+     padding: 0 10px 0 30px;
+}
+
+
+h1 {
+   padding: 30px 10px 15px 10px;  
+   color:#55ab26;
+
+}
+h3 {padding: 7px 5px 5px 5px; }
+
+a {
+   text-decoration: none;
+   font-weight: bold;
+   color: #55ab26;
+   outline: none;
+  }
+
+  a:visited {text-decoration:none;}
+  a:hover {text-decoration:underline}
+
+  strong, b {
+     font-weight: bold;
+     color: #f61e3c;
+  }
+
+
+  p {margin:0.6em 0 0.6em 0; }
+
+  li {    
+     list-style:none;
+     margin-top: 0.3em;
+     margin-bottom: 0.2em; 
+}
+
+ul {
+   margin-top: 1.0em;
+   margin-bottom: 1.0em; 
+     }
+
+     img {border: 0;	}
+
+/* Textformatierungen speziell*/
+
+
+#header{    /*header und footer auch unter Grundstruktur */
+        text-align:center;
+        color:#f6f9f4;
+        background: #ffffff url(../bilder/headerBackground.png) repeat-x left;
+        line-height: 24px;
+
+  }
+
+
+#footer {
+     text-align: center;
+     background-color: #f1f1f1;
+     font-size: 0.7em;
+     color:#666666;
+     line-height: 25px;
+
+}
+
+#footer a {
+   color:#666666;
+   text-decoration: underline;
+   font-weight: normal;
+}
+
+div#columnBackground1 {
+   background-image: url(../bilder/navigationBackground.png);
+   background-repeat: repeat-y;
+
+}
+
+#mainContent {
+   background: #f1f1f1 url(../bilder/contentBackground.png) repeat-x bottom;
+}
+
+#newswrapper {
+   background-color: #c4e042;
+}
+
+
+#news {
+   font-weight:normal;
+   font-size: 0.9em;
+   padding:15px 10px 15px 10px;   
+}
+
+
+.product{
+      border: 1px solid #cccccc;
+}
+
+.productText, .productKatalog {
+   padding: 10px 5px 10px 5px;
+   font-size:0.8em; 
+}
+
+.productKatalog {
+   padding-top: 0;
+}
+
+.productTitle {
+   background-color:#c7e345;
+}
+
+
+/* Format navigation */
+
+#navigation li ul { 
+   border: 1px solid #98f340;
+   background-color: #FFFFFF;
+}
+
+#navigation li li a {
+   font-weight: normal;
+}
+
+#navigation li a:hover, a.active, #navigation li:hover  {
+   background-color:#eef6c8;
+   
+} 

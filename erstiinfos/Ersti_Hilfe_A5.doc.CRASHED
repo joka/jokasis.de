@@ -1,0 +1,933 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Comic Sans MS;}
+{\f1\fnil\fcharset0\fprq0\fttruetype NULL;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Century;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f5\fnil\fcharset0\fprq0\fttruetype Wingdings;}
+{\f6\fnil\fcharset0\fprq0\fttruetype Dingbats;}
+{\f7\fnil\fcharset0\fprq0\fttruetype Chapter;}
+{\f8\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f9\fnil\fcharset0\fprq0\fttruetype Courier New;}
+{\f10\fnil\fcharset0\fprq0\fttruetype Section;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;}
+{\stylesheet
+{\s7\tx1584\sbasedon27\snext26 Chapter Heading;}
+{\s5\fi-431\li720 Box List;}
+{\s43\qj\ri6\f0\fs24\lang1036\sbasedon26\snext43 WW-,‡ 2;}
+{\s42\qj\f3\fs20\lang1033\sbasedon26\snext42 Verzeichnis;}
+{\s35\fi-431\li720 Star List;}
+{\s24\fi-431\li720\sbasedon30 Lower Case List;}
+{\s4\li1440\ri1440\sa120\sbasedon26 Block Text;}
+{\*\cs1\f2\fs20\lang0 Absatz-Standardschriftart;}
+{\s16\keepn\qj\f0\fs28\lang1031\sbasedon26\snext26 Heading 1;}
+{\s17\keepn\qj\f0\fs28\ul\lang1031\sbasedon26\snext26 Heading 2;}
+{\s6\fi-431\li720 Bullet List;}
+{\s57\keepn\qj\f0\fs24\b\ul\lang1031\sbasedon26\snext26 Überschrift 5;}
+{\s19\fi-431\li720 Heart List;}
+{\s59\keepn\qj\fi240\f0\fs24\i\lang1031\sbasedon26\snext26 Überschrift 7;}
+{\s2\qj\sb120\f3\fs20\i\lang1033\sbasedon26\snext2 Beschriftung;}
+{\s61\keepn\qj\f0\fs18\ul\lang1031\sbasedon26\snext26 Überschrift 9;}
+{\s34\fi-431\li720 Square List;}
+{\*\cs33\keepn\f0\fs18\lang0\sbasedon47 Seitenzahl;}
+{\s39\fi-431\li720 Triangle List;}
+{\s40\fi-431\li720\sbasedon30 Upper Case List;}
+{\s45\qj\fi-357\li360\f0\fs24\lang1031\sbasedon26\snext45 WW-,‡¤óÇóÈ 2;}
+{\s23\qj\f0\fs24\lang1031\sbasedon36\snext13 Liste;}
+{\s18\keepn\qj\f0\fs28\b\ul\lang1031\sbasedon26\snext26 Heading 3;}
+{\s30\fi-431\li720 Numbered List;}
+{\s9\fi-431\li720 Diamond List;}
+{\s15\fi-431\li720 Hand List;}
+{\*\cs50\keepn\f5\fs20\lang0 WW8Num1z1;}
+{\*\cs54\keepn\f5\fs20\lang0 WW8Num2z1;}
+{\s56\keepn\qj\fi2408\li779\f0\fs24\b\ul\lang1031\sbasedon26\snext26 Überschrift 4;}
+{\s22\qj\tqc\tx4252\tqc\tx8504\f3\fs20\lang1033\sbasedon26\snext22 Kopfzeile;}
+{\s36\qj\f0\fs24\lang1031\sbasedon26\snext36 Textkörper;}
+{\s41\fi-431\li720\sbasedon30 Upper Roman List;}
+{\s37\qj\fi-360\li360\f0\fs24\lang1031\sbasedon26\snext37 Textkörper Einrückung;}
+{\s44\qj\f0\fs18\lang1033\sbasedon26\snext44 WW-,‡ 3;}
+{\*\cs47\f2\fs20\lang0 WW-µ=Õ©óÈ;}
+{\*\cs21\keepn\cf-1\f2\fs20\ul\lang0\sbasedon47 Internet Link;}
+{\s55\keepn\qj\sb240\f8\fs28\lang1033\sbasedon26\snext36 Überschrift;}
+{\s26\f2\fs24\lang1031 Normal;}
+{\s31\f9\sbasedon26 Plain Text;}
+{\s60\keepn\qj\fi479\f0\fs24\i\lang1031\sbasedon26\snext26 Überschrift 8;}
+{\*\cs13\fs20\sbasedon26 Footnote Text;}
+{\s46\qj\li177\f0\fs24\lang1031\sbasedon26\snext46 WW-,‡¤óÇóÈ 3;}
+{\s32\tx1584\sbasedon27\snext26 Section Heading;}
+{\*\cs51\keepn\f2\fs20\lang0 WW8Num21z0;}
+{\*\cs3\keepn\cf-1\f2\fs20\ul\lang0\sbasedon47 Besuchter Internet Link;}
+{\*\cs52\keepn\f5\fs20\lang0 WW8Num21z2;}
+{\s20\fi-431\li720 Implies List;}
+{\*\cs49\keepn\f2\fs20\lang0 WW8Num1z0;}
+{\s38\fi-431\li720 Tick List;}
+{\s14\qj\tqc\tx4252\tqc\tx8504\f3\fs20\lang1033\sbasedon26\snext14 Fußzeile;}
+{\*\cs53\keepn\f2\fs20\lang0 WW8Num2z0;}
+{\s8\fi-431\li720 Dashed List;}
+{\s25\fi-431\li720\sbasedon26 Lower Roman List;}
+{\*\cs12\fs20\super Footnote Reference;}
+{\*\cs11\sbasedon26 Endnote Text;}
+{\*\cs10\fs20\super Endnote Reference;}
+{\s27\tx431\sbasedon16\snext26 Numbered Heading 1;}
+{\s28\tx431\sbasedon17\snext26 Numbered Heading 2;}
+{\s29\tx431\sbasedon18\snext26 Numbered Heading 3;}
+{\*\cs48\f2\fs20\lang0 WW8Num16z1;}
+{\s58\keepn\qj\f0\fs24\ul\lang1031\sbasedon26\snext26 Überschrift 6;}}
+{\*\listtable
+{\list\listtemplateid1010{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1000}
+{\list\listtemplateid1011{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1005}
+{\list\listtemplateid1012\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1007}
+{\list\listtemplateid1013\listsimple{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\'b7 ;}{\levelnumbers;}\f4}\listid1008}
+{\list\listtemplateid1014\listsimple{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\'b7 ;}{\levelnumbers;}\f4}\listid1009}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls1}
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls2}
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls3}
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls4}
+{\listoverride\listoverridecount0\listid1000\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls5}
+{\listoverride\listoverridecount0\listid1005\levelnfc0\levelstartat6\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls6}
+{\listoverride\listoverridecount0\listid1005\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-720\li720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\ls7}
+{\listoverride\listoverridecount0\listid1007\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-360\li360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls8}
+{\listoverride\listoverridecount0\listid1008\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\'b7 ;}{\levelnumbers;}\f4\ls9}
+{\listoverride\listoverridecount0\listid1009\levelnfc23\levelstartat1\levelspace0\levelfollow0{\leveltext\'01\'b7 ;}{\levelnumbers;}\f4\ls10}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1{\info}\deftab720\viewkind1\paperw8390\paperh11905\margl1440\margr1440\widowctl
+\sectd\sbknone\colsx360\margtsxn902\margbsxn900\marglsxn1260\margrsxn1012\pgncont\ltrsect
+\pard\plain\ltrpar\qc\s16\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}\ltrch Inhalt}
+\sect\sectd\sbknone\cols2\colsx2\margtsxn902\margbsxn900\marglsxn1258\margrsxn1009\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 1.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls1\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Vorwort}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 2.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls1\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Studienorganisation}
+\par}{\listtext\pard\fi-720\li720 2.1.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Studienordnung (StO)}
+\par}{\listtext\pard\fi-720\li720 2.2.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Semesterwochenstunden (SWS)}
+\par}{\listtext\pard\fi-720\li720\ri-745 2.3.	}\pard\plain{\ltrpar\ql\fi-720\li720\ri-745\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Arten der Lehrveranstaltungen (GK, PS, V, \'dc)}
+\par}{\listtext\pard\fi-720\li720 2.4.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Sprachen}
+\par}{\listtext\pard\fi-720\li720 2.5.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Stundenplan}
+\par}{\listtext\pard\fi-720\li720 2.6.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Teilnahme an Lehrveranstaltungen}
+\par}{\listtext\pard\fi-720\li720 2.7.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Sternchen-Kurse}
+\par}{\listtext\pard\fi-720\li720 2.8.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Nachweis der besuchten Lehrveranstaltungen}
+\par}{\listtext\pard\fi-720\li720 2.9.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1001\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls2\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Mentoren-Modell}
+\par}\pard\plain\ltrpar\ql\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\fi-360\li360 3.	}}\pard\plain{\ltrpar\ql\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls1\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Wo finde ich was am KHI? Wer macht was?}
+\par}{\listtext\pard\fi-720\li720 3.1.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1002\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls3\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Gesch\'e4ftszimmer und Schwarzes Brett}
+\par}{\listtext\pard\fi-720\li720 3.2.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1002\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls3\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Bibliothek: "Handapparat", Ausleihe, Kopieren}
+\par}{\listtext\pard\fi-720\li720 3.3.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1002\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls3\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Diathek}
+\par}{\listtext\pard\fi-720\li720 3.4.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1002\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls3\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Cafeteria des Studentenwerks}
+\par}{\listtext\pard\fi-720\li720 3.5.	}\pard\plain{\ltrpar\ql\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1002\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls3\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch KHI-Caf\'e9}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 4.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls1\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Ansprechpartner am KHI}
+\par}{\listtext\pard\qj\fi-720\li720 4.1.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1003\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls4\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Fachschaft KHI}
+\par}{\listtext\pard\qj\fi-720\li720 4.2.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1003\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls4\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Studienfachberatung}
+\par}{\listtext\pard\qj\fi-720\li720 4.3.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1003\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls4\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Studentische Beratung}
+\par}{\listtext\pard\qj\fi-720\li720 4.4.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1003\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls4\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch SOKRATES/ERASMUS-Programm}
+\par}{\listtext\pard\qj\fi-720\li720 4.5.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1003\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls4\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Beratungsstellen an der Freien Universit\'e4t Berlin}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 5.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls1\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Weitere Bibliotheken}
+\par}{\listtext\pard\qj\fi-720\li720 5.1.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Universit\'e4tsbibliothek der FU Berlin (\uc1\u8222\'84FUB\uc1\u8220\'93)}
+\par}{\listtext\pard\qj\fi-720\li720 5.2.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Staatsbibliothek (\uc1\u8222\'84Stabi\uc1\u8220\'93) zu Berlin Preu\'dfischer Kulturbesitz}
+\par}{\listtext\pard\qj\fi-720\li720 5.3.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Kunstbibliothek (KuBi)}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch Seite}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 3}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 5}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 6}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 6}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 8}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 8}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 9}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 9}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 10}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 10}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 11}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 12}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 14}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 15}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 15}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 16}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 17}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 18}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 18}
+\par\pard\plain\ltrpar\qj\fi200\s14\itap0\tqc\tx4252\tqc\tx8504{\f0\fs20\lang1031{\*\listtag0}\ltrch 19}
+\par\pard\plain\ltrpar\qj\fi180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 20}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 21}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 22}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-720\li720 5.4.	}}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Bibliotheken der Hochschulen und Stiftungen in Berlin und Brandenburg, KOBV}
+\par}{\listtext\pard\qj\fi-720\li720 5.5.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Stadtbibliotheken}
+\par}{\listtext\pard\qj\fi-720\li720 5.6.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1004\abilistparentid1000\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls5\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Weitere Bibliotheksverb\'fcnde}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 6.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1005\abilistparentid0\abilistlevel1\abistartat6{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart6\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls6\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Weitere n\'fctzliche Informationen}
+\par}{\listtext\pard\qj\fi-720\li720 1.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid1005\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls7\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch \uc1\u8222\'84must have\uc1\u8220\'93-Literatur}
+\par}{\listtext\pard\qj\fi-720\li720 2.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid1005\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls7\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Hilfen zum wissenschaftlichen Arbeiten}
+\par}{\listtext\pard\qj\fi-720\li720 3.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid1005\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls7\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Adressen KHI}
+\par}{\listtext\pard\qj\fi-720\li720 4.	}\pard\plain{\ltrpar\qj\fi-720\li720\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid1005\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-720\li720\ls7\ilvl1\itap0\tx720{\f0\fs20\lang1031{\*\listtag0}\ltrch Wichtige Museen in Berlin}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 7.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1005\abilistparentid0\abilistlevel1\abistartat6{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart6\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls6\ilvl0\itap0\tx360{\f0\fs20\ul\lang1031{\*\listtag0}\ltrch Glossar und Sachregister}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch Seite}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 22}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 23}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 23}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 25}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 26}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 28}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 30}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch 32}
+\par\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi360\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}}
+\sect\sectd\sbknone\colsx360\margtsxn902\margbsxn900\marglsxn1076\margrsxn1009\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 5.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s56\f0\fs24\b\ul\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\keepn\tx360{\f0\fs24\b\ul\lang1031{\*\listtag0}\ltrch Vorwort}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch Die Fachschaftsinitiative des Kunsthistorischen Instituts der Freien Universit\'e4t Berlin m\'f6chte alle neuen Kommilitonen und besonders alle Erstsemester herzlich begr\'fc\'dfen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}\ltrch Viele wissen es vielleicht noch nicht, aber }{\f0\fs20\lang0{\*\listtag0}bevor}{\f0\fs20\lang1031{\*\listtag0} ihr \'fcberhaupt mit dem Studium beginnen werdet, habt ihr schon dreimal ins Schwarze getroffen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360 1.	}}\pard\plain{\ltrpar\qj\fi-360\li360\s36\f0\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1007\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls8\ilvl0\itap0\tx360{\f0\fs20\i\ul\lang1031{\*\listtag0}\ltrch Ihr habt das sch\'f6nste Fach der Welt gew\'e4hlt. }
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Denn kein anderes Fach ist so vielf\'e4ltig und vereint so unterschiedliche Disziplinen wie die Kunstgeschichte. Dabei sind Literatur, Philosophie und religi\'f6se Themen nur wenige Bereiche, mit denen ihr euch besch\'e4ftigen werdet. Und sp\'e4testens wenn ihr Ernst H. Gombrichs \uc1\u8222\'84Geschichte der Kunst\uc1\u8220\'93 gelesen habt, werdet ihr wissen warum ihr dieses Fach liebt.}
+\par\pard\plain\ltrpar\qj\li708\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s36\f0\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1007\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls8\ilvl0\itap0\tx360{\f0\fs20\i\ul\lang1031{\*\listtag0}Ihr habt euch f\'fcr Berlin als Studienort entschieden. }
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr h\'e4ttet kaum besser w\'e4hlen k\'f6nnen. Denn diese Stadt ist so reich an  Kunstsch\'e4tzen und Architektur aus allen Epochen, so dass euch noch der Schwei\'df auf die Stirn treten wird, bei dem Vorhaben, dies alles kennen zu lernen. Aber - das k\'f6nnt ihr uns glauben - es macht h\'f6llischen Spa\'df und ihr solltet diesen gro\'dfen Vorteil nutzen. Also besorgt euch gutes Schuhwerk und haltet die Augen auf! An dieser Stelle m\'f6chten wir allen Erstis das Mentorenmodell ans Herz legen, das die Gelegenheit bietet, die Stadt gemeinsam mit Kommilitonen zu erkunden. Die Erfahrung hat gezeigt, dass viele Augen mehr sehen als nur zwei, und im Austausch mit anderen lernt es sich einfach leichter. }
+\par\pard\plain\ltrpar\qj\li708\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s36\f0\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1007\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls8\ilvl0\itap0\tx360{\f0\fs20\i\ul\lang1031{\*\listtag0}Ihr werdet an der Freien Universit\'e4t studieren. }
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Wo ist ein inzwischen so kosmopolitisches Fach wie die Kunstgeschichte besser aufgehoben als an einer Universit\'e4t, die sich aus Protest gegen Gleichschaltung und mit dem Drang nach Freiheit und Vielfalt gegr\'fcndet hat? Die Vielfalt der Forschung, die von der Handschriftenkunde des Mittelalters \'fcber Kunsttheorie bis hin zur Auseinandersetzung mit der Kunst nach dem Zweiten Weltkrieg reicht - damit sind nur wenige Bereiche genannt -, findet ihren Niederschlag auch im Lehrangebot unseres Instituts. Dieses wird noch zus\'e4tzlich durch die gute Zusammenarbeit mit der Humboldt-Universit\'e4t und der Technischen Universit\'e4t erg\'e4nzt. Auch der internationale Austausch findet nicht nur in Forschungsprojekten statt, sondern besonders \'fcber den Studentenaustausch mit fast 20 Universit\'e4ten zwischen Ume\'e5 und Madrid.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr seht, ihr habt die besten Voraussetzungen, um euer Studium interessant und vielf\'e4ltig zu gestalten und euer Fach zum sch\'f6nsten der Welt zu machen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Trotzdem bedeutet Studium auch immer Organisation, vor allem Selbstorganisation. Und ganz am Anfang steht man oft vor einem riesigen Berg ohne zu wissen, wie man ihn erklimmen soll. Welche Literatur muss ich kennen? Was sind Semesterwochenstunden? Wie gestalte ich meinen Stundenplan? Das sind nur wenige Fragen, die sich am Anfang des Studiums stellen. Mit dieser kleinen Brosch\'fcre m\'f6chten wir euch einen Wegweiser geben, der euch viele unn\'f6tige Wege, Zeit und einigen \'c4rger ersparen soll, damit ihr bald voll und ganz in die Fluten der Kunstgeschichte eintauchen k\'f6nnt.}
+\par\pard\plain\ltrpar\qj\li360\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Wir w\'fcnschen euch einen guten Start, viel Erfolg und vor allem Spa\'df am Studium!}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Eure KHI \uc1\u8211\'96 Fachschaftsinitiative}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s17\f0\fs28\ul\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\keepn\tx360{\f0\fs24\b\ul\lang1031{\*\listtag0}Studienorganisation}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Wenn man frisch von der Schule kommt, ist man es gew\'f6hnt, dass einem der Stundenplan vorgesetzt wird, dem man zu folgen hat. Auch an der Uni gibt es Studieng\'e4nge, bei denen strikte Vorgaben dazu f\'fchren, dass man so etwas wie einen Stundenplan hat. Bei Kunstgeschichte sieht es jedoch anders aus. Es gibt zwar Vorgaben durch die Studienordnung. F\'fcr die richtige Organisation und Einteilung jedoch, um diese zu erf\'fcllen, seid ihr alleine verantwortlich!}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s57\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.1. Studienordnung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}W\'e4hrend eures Kunstgeschichtsstudiums m\'fc\'dft ihr euch stets nach der }{\f0\fs20\ul\lang1031{\*\listtag0}\uc1\u8220\'93Studienordnung des Fachs Kunstgeschichte\uc1\u8220\'93}{\f0\fs20\lang1031{\*\listtag0} richten, die ihr im Gesch\'e4ftszimmer des KHI (Raum A 293) erhaltet. Diese solltet ihr schon bald in- und auswendig k\'f6nnen!!!}
+\par\pard\plain\ltrpar\qj\s14\itap0\tqc\tx4252\tqc\tx8504{\f3\fs20\lang1033{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Bis zu eurer }{\f0\fs20\i\lang1033{\*\listtag0}Zwischenpr\'fcfung}{\f0\fs20\lang1033{\*\listtag0}, die euer Grundstudium idealerweise nach vier Semestern abschlie\'dft, m\'fc\'dft ihr folgende Bedingungen erf\'fcllen:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}30 Semesterwochenstunden (SWS)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}1 unbenoteter Grundkursschein}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}4 benotete Proseminars- oder \'dcbungsscheine aus drei verschiedenen Epochen und drei verschiedene Gattungen}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Nachweis von Lateinkenntnissen im Umfang von 3 Jahren Schulunterricht (Niveau C\'e4sar), am Besten Latinum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Englisch und eine weitere moderne Fremdsprache (ebenfalls im Umfang von 3 Jahren Schulunterricht)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Studienfachberatung f\'fcr die Zulassung und Anmeldung zur Zwischenpr\'fcfung}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Bis zur }{\f0\fs20\i\lang1031{\*\listtag0}Magisterpr\'fcfung}{\f0\fs20\lang1031{\*\listtag0} m\'fc\'dft ihr in Hauptseminaren und Hauptstudiums\'fcbungen 4 Scheine \uc1\u8211\'96 erneut aus 3 Epochen und 3 Sachgebieten \uc1\u8211\'96 vorweisen und weitere 30 SWS. }{\f0\fs20\lang1033{\*\listtag0}Auch das Hauptstudium sollte nur vier Semester dauern. Hinzu kommen 8 Exkursionstage, die man von Anfang des Studiums an sammeln sollte. Auch im Fach Kunstgeschichte gilt die Magisterpr\'fcfungsordnung (MPO) der Freien Universit\'e4t Berlin, die ebenso im Gesch\'e4ftszimmer zu erhalten ist.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Genaueres lest bitte unbedingt in der Studienordnung nach und fragt bei Unklarheiten sofort nach. }{\f0\fs20\lang1033{\*\listtag0}Lieber zu fr\'fch und doof fragen als zu sp\'e4t.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s57\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.2. Semesterwochenstunden}
+\par\pard\plain\ltrpar\qj\s44\itap0{\f0\fs18\lang1033{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s44\itap0{\f0\fs20\lang1031{\*\listtag0}Was sind Semesterwochenstunden (SWS)? }{\f0\fs20\lang1033{\*\listtag0}SWS ist die Anzahl von Stunden, die eine Lehrveranstaltungssitzung in der Woche dauert. In der Regel dauert eine Lehrveranstaltung (LV) pro Sitzung 2 Stunden (trotz der akademischen Viertel). Und das \uc1\u8222\'84Semster-\uc1\u8222\'84 am Anfang des Wortes zeigt nur an, dass es sich eben um Wochenstunden in einem Semester handelt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}30 Semesterwochenstunden versteht man so, dass bis zur Zwischenpr\'fcfung, also idealiter in den vier ersten Semestern, insgesamt diese Stundenzahl erbracht werden muss. Geht man von obiger Regel aus, dass 30 SWS 15 Lehrveranstaltungen sind, muss man also 15 LV besuchen. Das klingt erst einmal nach viel, aber es sind nur durschnittlich 4 LVs pro Semester zu besuchen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.3. Arten der Lehrveranstaltungen}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Im Grundstudium k\'f6nnen folgende Lehrveranstaltungen besucht werden: Vorlesungen, Proseminare und \'dcbungen.}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\b\lang1033{\*\listtag0}Vorlesungen (V)}{\f0\fs20\lang1033{\*\listtag0} sind LVs f\'fcrs Grund- und Hauptstudium, die als w\'f6chentliche Vortr\'e4ge von Dozenten konzipiert sind. Manchmal d\'fcrfen auch Fragen gestellt werden, aber nur selten. Schlie\'dflich ist der zusammenh\'e4ngende Vortrag DIE Pr\'e4sentationsform in diesem Fach.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\b\lang1033{\*\listtag0}Grundkurs (GK)}{\f0\fs20\lang1033{\*\listtag0} nennt sich eine LV, die man in den ersten beiden Semestern besuchen sollte. Denn der Grundkurs vermittelt die Grundkenntnisse des Fachs Kunstgeschichte. Ihr lernt dort die Fachbegriffe und Methoden der Kunstgeschichte, au\'dferdem die wichtigsten Nachschlage- und \'dcbersichtswerke und wissenschaftliche Techniken kennen. Der Schein, den ihr hier bekommt, ist unbenotet.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\b\lang1031{\*\listtag0}Proseminare (PS)}{\f0\fs20\lang1031{\*\listtag0} sind dazu da, dass in kleineren Gruppen gearbeitet wird. Leider sind diese Gruppen je nach Thema und Dozenten sehr, sehr voll. }{\f0\fs20\lang1033{\*\listtag0}Aber da m\'fc\'dft ihr durch. In der Regel wird f\'fcr den Scheinerwerb ein Referat und seine schriftliche Ausarbeitung (die schriftliche Hausarbeit mit einem Umfang von \uc1\u8211\'96 in der Regel \uc1\u8211\'96 10 bis 15 Seiten) gefordert, manchmal weniger oder aber manchmal jedoch auch mehrere Aufgaben im Semester. Das ist vollkommen abh\'e4ngig vom Dozenten. }
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\b\lang1033{\*\listtag0}\'dcbungen (\'dc)}{\f0\fs20\lang1033{\*\listtag0} unterscheiden sich von Proseminaren insofern, dass sie meistens einen st\'e4rkeren Praxisbezug haben und oft von Lehrbeauftragten von au\'dferhalb, d.h. Museums-, Archivs- und Denkmalschutzleuten angeboten werden. \'dcbungen sind f\'fcr Studenten sowohl im Grund- als auch im Hauptstudium offen. Dabei k\'f6nnen Studenten im Grundstudium einen Schein erwerben. Studenten im Hauptstudium k\'f6nnen sich die \'dcbung lediglich als besuchte Lehrveranstaltung  anrechnen lassen, sofern es sich nicht um eine explizite }{\f0\fs20\b\lang1033{\*\listtag0}\'dcHS (\'dcbung f\'fcrs Hauptstudium)}{\f0\fs20\lang1033{\*\listtag0} handelt.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\b\lang1031{\*\listtag0}Hauptseminare (HS)}{\f0\fs20\lang1031{\*\listtag0} sind Seminare f\'fcr Studenten im Hauptstudium. }{\f0\fs20\lang1033{\*\listtag0}Die Referate sind meist als Vortr\'e4ge mit anschlie\'dfender Diskussion konzipiert, die schriftliche Hausarbeit soll meistens zwischen 15 bis 20 Seiten umfassen.}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}F\'fcr die meisten Lehrveranstaltungen gilt die Regelung }{\f0\fs20\b\lang1031{\*\listtag0}\uc1\u8222\'84c.t.\uc1\u8220\'93}{\f0\fs20\lang1031{\*\listtag0} (cum tempore), also mit dem ber\'fchmten \uc1\u8222\'84akademischen Viertel\uc1\u8220\'93. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.4. Sprachen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr m\'fc\'dft als Hauptf\'e4chler bis zur Zwischenpr\'fcfung entweder das }{\f0\fs20\b\lang1031{\*\listtag0}Latinum oder eine \uc1\u8222\'84gleichwertige\uc1\u8220\'93 Sprachpr\'fcfung}{\f0\fs20\lang1031{\*\listtag0} nachweisen. }{\f0\fs20\lang1033{\*\listtag0}Diese k\'f6nnt ihr im Rahmen von Lateinkursen bei den Historikern mitmachen. Denkt daran, dass das nachtr\'e4gliche Lateinlernen sehr, sehr viel Arbeit, Zeit und Selbstdisziplin erfordert. Das ist wirklich nicht zu untersch\'e4tzen. Man kann auch durch diese Abschlu\'dfpr\'fcfung der Lateinkurse durchfallen! Fangt also m\'f6glichst fr\'fch an und bringt es hinter euch, damit ihr nicht nur wegen des fehlenden Lateinnachweises auf euer Zwischenpr\'fcfungszeugnis ewig warten m\'fc\'dft. Nebenf\'e4chler haben es gut, denn sie m\'fcssen keine Lateinkenntnisse nachweisen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\lang1033{\*\listtag0}Neben Englisch m\'fc\'dft ihr noch eine weitere moderne Fremdsprache}{\f0\fs20\lang1033{\*\listtag0} k\'f6nnen. Falls ihr keine parat habt, k\'f6nnt ihr am zentralen Sprachlabor in der Rostlaube (Habelschwerdter Allee 45) Kurse belegen, Franz\'f6sisch kann man aber auch in Kursen f\'fcr die Historiker mitmachen. Dort gibt es auch wieder Abschlu\'dfpr\'fcfungen, mit denen man seine Sprachkenntnisse beweisen kann. Das ZE Sprachlabor hat immer fr\'fche Anmeldungs- und Bewerbungsfristen in den Semesterferien. Macht euch \'fcber die Aush\'e4nge kundig!}
+\par\pard\plain\ltrpar\qj\s14\itap0\tqc\tx4252\tqc\tx8504{\f3\fs20\lang1033{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s14\itap0\tqc\tx4252\tqc\tx8504{\f3\fs20\lang1033{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s57\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.5. Stundenplan}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr alleine seid verantwortlich f\'fcr euren Studienverlauf. Auch euren Stundenplan m\'fc\'dft \uc1\u8211\'96 andererseits auch \uc1\u8222\'84k\'f6nnt\uc1\u8220\'93 \uc1\u8211\'96 ihr euch selbst zusammenstellen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Das erste, was ihr f\'fcr ein neues Semester machen solltet, ist, euch \'fcber das }{\f0\fs20\b\lang1033{\*\listtag0}kommentierte Vorlesungsverzeichnis (KVV)}{\f0\fs20\lang1033{\*\listtag0} zu informieren, welche Lehrveranstaltungen angeboten werden. \'dcbrigens muss man auf das KVV immer ganz sch\'f6n lange warten. Vorher einsehbar ist die Internetversion unter }{\f0\fs20\b\lang1033{\*\listtag0}www.fu-berlin.de/kunstgeschichte}{\f0\fs20\lang1033{\*\listtag0}.  }
+\par\pard\plain\ltrpar\qj\s44\itap0{\f0\fs20\lang1033{\*\listtag0}Dort sucht ihr euch die LV zusammen, die ihr besuchen wollt oder auch wegen des Scheins besuchen m\'fc\'dft. Schlie\'dflich m\'fc\'dft ihr diese LV mit denen eurer anderen Neben- oder Hauptf\'e4cher vereinbaren. Am besten macht ihr euch wirklich einen Stundenplan f\'fcr die Woche. Nach der ersten Woche werdet ihr dann mitbekommen, ob ihr das gut geplant habt oder transportm\'e4\'dfig unm\'f6glich. }
+\par\pard\plain\ltrpar\qj\s44\itap0{\f0\fs20\lang1031{\*\listtag0}Es kommt auch vor, dass Kurse zu voll sind. }{\f0\fs20\lang1033{\*\listtag0}Aber hier m\'fc\'dft ihr wirklich selber schlau kombinieren und auch vordenken, um die Epochen und Gattungen f\'fcr die Scheine in vier Semestern abzudecken. Es gibt au\'dferdem ja auch noch die LV der anderen Berliner Universit\'e4ten, die man sich auch anerkennen lassen kann. Achtet aber darauf, dass ihr mindestens die H\'e4lfte (also 3 von 5 vorzuweisenden Scheinen) an unserem Institut machen m\'fc\'dft. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1033{\*\listtag0}2.6. Teilnahme an Lehrveranstaltungen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Um an den LVs teilzunehmen, braucht ihr euch nicht anzumelden, es sei denn, es ist ein Kurs mit einem * (s.2.7.) oder es steht im KVV oder am Schwarzen Brett (s.3.1.). }{\f0\fs20\lang1033{\*\listtag0}In der ersten Sitzung geht ihr einfach in den Raum, wo die LV stattfindet und pa\'dft gut auf, denn dort werden oft die Referate verteilt oder wichtige Ank\'fcndigungen gemacht.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.7. \uc1\u8222\'84Sternchen\uc1\u8220\'93-Kurse}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Ganz wichtig sind noch die sogenannten \uc1\u8222\'84Sternchen\uc1\u8220\'93-Kurse. Es handelt sich hierbei nicht um Ausbildungen zum Superstar, das Selektionsprinzip gilt hier jedoch auch. Diese *-Kurse haben Kurse nur }{\f0\fs20\b\lang1031{\*\listtag0}begrenzte Teilnehmerzahl}{\f0\fs20\lang1031{\*\listtag0}. Um euch f\'fcr die Teilnahme zu bewerben, bekommt ihr mit den KVVs oder bei den Einf\'fchrungsveranstaltungen einen (!) A5-Zettel, den ihr mit eurem Namen und Kursw\'fcnschen ausf\'fcllt. Achtet darauf, dass ihr die Kurse in der }{\f0\fs20\b\lang1031{\*\listtag0}Reihenfolge eurer Pr\'e4ferenz}{\f0\fs20\lang1031{\*\listtag0} eintragt, denn das wird ber\'fccksichtigt. Und: Wer mehr als einen Zettel ausf\'fcllt, fliegt raus.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Bis 15 Uhr des meist zweiten Vorlesungstags muss euer Zettel im Gesch\'e4ftszimmer oder in der Bibliothek abgegeben worden sein. Und am Nachmittag des Folgetages werden die \uc1\u8222\'84}{\f0\fs20\b\lang1031{\*\listtag0}Ergebnisse\uc1\u8220\'93 der Auswahl am Glaskasten beim Gesch\'e4ftszimmer ausgehangen}{\f0\fs20\lang1031{\*\listtag0}. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.8. Nachweis der besuchten Lehrveranstaltungen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr braucht euch f\'fcr die besuchten LV in der Regel keine Teilnahmescheine zu holen. }{\f0\fs20\lang1033{\*\listtag0}Es gen\'fcgt, dass ihr diese in eure Studienbuchseite eintragt, die euch immer mit der Immatrikulationsbescheinigung zugeschickt wird.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Ihr solltet die LV, die ihr dort eintragt, aber wirklich besucht haben, denn schlie\'dflich gibt es Seminare mit Anwesenheitslisten oder auch Seminare die zwar im Vorlesungsverzeichnis stehen, aber kurzfristig ausfallen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}2.9. Mentorenmodell}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Das Mentorenmodell solltet ihr im Laufe eures Grundstudiums besucht haben, denn es bringt nicht nur Spa\'df, sondern auch Nutzen. Zwar k\'f6nnt ihr keinen Schein erwerben, doch lohnt es sich wirklich, denn es wird von Studenten angeboten, die bereits im Hauptstudium sind. Sie haben zuvor in den Semesterferien ein Seminar belegt, in dem sie sich intensiv auf die Inhalte vorbereitet haben, die dann f\'fcr euch angeboten werden. Oberthema ist immer Berlin. Dabei kann es sich um Architektur oder um Sammlungen handeln. }
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Einmal in der Woche werdet ihr dann mit eurem Mentor die Berliner Kunstlandschaft live und vor Ort kennenlernen. F\'fcr Neuberliner ist dies eine gute Gelegenheit, die Stadt kennenzulernen, und f\'fcr alt Eingesessne vielleicht, die Stadt neu zu entdecken. Mit Blick auf die Zwischenpr\'fcfung lernt ihr, das Berliner Angebot zu erschlie\'dfen, und zudem k\'f6nnt ihr taufrische und n\'fctzliche Infos rund ums Studium von euren Mentoren bekommen. Zu Beginn des Semesters h\'e4ngen vor Raum A 127 die Listen aus, in die ihr euch eintragen k\'f6nnt. Es werden meist unterschiedliche Termine angeboten, was den gro\'dfen Vorteil hat, dass ihr euch einen passenden aussuchen k\'f6nnt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\tx360{\f0\fs24\b\ul\lang1033{\*\listtag0}Wo und wie finde ich was im KHI?}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Nicht immer ist das Geb\'e4ude in der Koserstra\'dfe wirklich \'fcbersichtlich; manche R\'e4ume, besonders die in den hintersten Winkeln wie etwa die Seminarr\'e4ume R336 oder R163, sind schwieriger zu finden. Im folgenden seien die zun\'e4chst besonders wichtigen Stellen des KHI kurz vorgestellt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}3.1. Gesch\'e4ftszimmer und Schwarzes Brett}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Das }{\f0\fs20\b\lang1031{\*\listtag0}Gesch\'e4ftszimmer (Raum A293)}{\f0\fs20\lang1031{\*\listtag0} ist das zentrale B\'fcro unseres Kunsthistorischen Instituts. }{\f0\fs20\lang1033{\*\listtag0}Ihr bekommt dort die Studienordnung f\'fcr Kunstgeschichte wie auch die Magisterpr\'fcfungs- und Promotionsordnung und Anmeldeb\'f6gen f\'fcr die Zwischenpr\'fcfung. Wenn ein Dozent nicht zur Lehrveranstaltung erscheint oder wenn ihr nicht wi\'dft, wie ihr euren Dozenten kontaktiert, k\'f6nnt ihr hier nachfragen. Ebenso erhaltet ihr hier den obligaten Stempel f\'fcr die Bibliothek, von dem in 3.2. die Rede sein wird.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Rechts an der Ecke des Gesch\'e4ftszimmers findet ihr das }{\f0\fs20\b\lang1033{\*\listtag0}Schwarze Brett}{\f0\fs20\lang1033{\*\listtag0}, was gar nicht schwarz sondern wei\'df ist. Hier werden die neuesten \'c4nderungen, Krankmeldungen von Dozenten, Themenlisten f\'fcr die Referate und Ank\'fcndigungen der Dozenten ausgehangen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}3.2. Bibliothek: \uc1\u8222\'84Handapparat\uc1\u8220\'93, Ausleihe, Kopieren}
+\par\pard\plain\ltrpar\qj\s44\itap0{\f0\fs18\lang1033{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s44\itap0{\f0\fs20\lang1031{\*\listtag0}Das KHI hat zum Gl\'fcck seine Bibliothek im eigenen Geb\'e4ude, zusammem mit den Historikern des FMI. }{\f0\fs20\lang1033{\*\listtag0}Wenn ihr durch den Haupteingang ins Geb\'e4ude kommt, findet ihr auf der linken den Eingang zur Bibliothek. Die Regale des KHI stehen aber erst am Ende der R\'e4umlichkeiten, und um wieder zum Eingang oder zum Kopierer zu kommen, muss man den ganzen Weg immer sch\'f6n an den Historikern vorbei wieder zur\'fcckgehen. }
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Unsere Bibliothek ist zum Gl\'fcck sehr gut ausstattet, so dass man f\'fcr die Vorbereitung der Referate u. \'e4. hier beginnen kann. Sie ist eine reine Pr\'e4senzbibliothek, d.h. man kann die B\'fccher nur hier lesen. Andererseits sind die Best\'e4nde so geordnet, dass man die Literatur direkt vor den Regalen nach etwa K\'fcnstler oder Orten findet, statt f\'fcr jedes Buch die Signatur herauszusuchen zu m\'fcssen. Ansonsten findet ihr die Signaturen durch den Zettelkatalog oder f\'fcr die Titel nach 2000 im FU-OPAC unter}{\f0\fs20\b\lang1031{\*\listtag0} http://opac.fu-berlin.de}{\f0\fs20\lang1031{\*\listtag0}. }
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}\'c4ltere Zeitschriften, einige Magisterarbeiten werden im }{\f0\fs20\b\lang1031{\*\listtag0}\uc1\u8222\'84Bibliotheksteil B\uc1\u8220\'93 (alias \uc1\u8222\'84Turm\uc1\u8220\'93)}{\f0\fs20\lang1031{\*\listtag0} aufbewahrt. Hier erh\'e4lt man auch die neuen gedruckten KVVs. Der Eingang des Bibliotheksteils B befindet sich links neben dem H\'f6rsaal B und dann die Treppe hoch.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0} }{\f0\fs20\b\lang1031{\*\listtag0}\uc1\u8222\'84Handapparat\uc1\u8220\'93}{\f0\fs20\lang1031{\*\listtag0} wird eine Regalecke mit Leitz-Ordnern genannt, in die die Dozenten Texte, Literaturlisten usw. als Kopiervorlage zur Verf\'fcgung stellen. Auch B\'fccher, die die Dozenten f\'fcr das Seminar als hilfreich erachten, k\'f6nnen dabei stehen. Diese Dinge sind aber f\'fcr alle Teilnehmer des Seminars gedacht; und deshalb m\'fcssen sie auch m\'f6glichst bald nach Benutzung ins Regal zur\'fcck.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\b\lang1031{\*\listtag0}F\'fchrungen}{\f0\fs20\lang1031{\*\listtag0} werden besonders zu Beginn des Semesters angeboten, die jeder von Euch einmal mitgemacht haben sollte. Die Termine werden an der Bibliothekst\'fcr ausgehangen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Einige weitere Informationen zur Nutzung der KHI-Bibliothek stellen wir in einem }{\f0\fs20\b\lang1031{\*\listtag0}Ordner im Handapparat}{\f0\fs20\lang1031{\*\listtag0} f\'fcr euch zusammen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}\'dcberlebenswichtig (!) ist f\'fcr Euch als allererstes, sich mit dem Immatrikulationsausweis in das Gesch\'e4ftszimmer des KHI in Raum A297 zu Frau Smit oder Frau Iwan-Frank zu begeben und sich einen }{\f0\fs20\b\lang1033{\*\listtag0}\uc1\u8222\'84Stempel f\'fcr die Bibliothek\uc1\u8220\'93}{\f0\fs20\lang1033{\*\listtag0} zu holen. Ihr werdet dort eine Karteikarte mit Euren Daten ausf\'fcllen m\'fcssen, das tut aber nicht weh. Den Stempel m\'fcsst ihr Euch dann jedes Semester neu holen. Der Stempel berechtigt Euch zum weitestgehenden Gebrauch unserer Bibliothek und ist der erste Schritt zur Anerkennung durch die Bibliotheksaufsicht. Falls ihr ihn verge\'dft, wundert Euch nicht, wenn ihr von der Aufsichtsdamen einen ordentlichen R\'fcffel bekommt! (Und der kommt mit Sicherheit, egal in welchem Semester ihr seid.)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Genauso einen R\'fcffel bekommt ihr auch, wenn ihr die Bibliotheksaufsicht um ein }{\f0\fs20\b\lang1033{\*\listtag0}2\uc1\u8364\'80-St\'fcck f\'fcr die Spinde}{\f0\fs20\lang1033{\*\listtag0} bittet. Habt am besten immer ein 2\uc1\u8364\'80-St\'fcck im Portemonnaie! Ansonsten rennt in die Cafeteria und fragt, ob sie wechselt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Der Stempel erlaubt es euch, die meisten der }{\f0\fs20\b\lang1031{\*\listtag0}B\'fccher kurzzeitig auszuleihen}{\f0\fs20\lang1031{\*\listtag0}. }{\f0\fs20\lang1033{\*\listtag0}Beachten m\'fc\'dft ihr aber zum einen, dass nicht alle B\'fccher nach Hause mitgenommen werden d\'fcrfen (etwa Lexika, W\'f6rterb\'fccher, Quellen, s. Aush\'e4nge). Zum anderen m\'fc\'dft ihr die Zeitlimits strikt einhalten.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}F\'fcr die }{\f0\fs20\b\lang1033{\*\listtag0}\'dcber-Nacht-Leihe}{\f0\fs20\lang1033{\*\listtag0} m\'fc\'dft ihr die B\'fccher zwischen 18 und 19.30 Uhr (in der Vorlesungszeit) mit ausgef\'fclltem Leihschein bei den Damen der  Bibliotheksaufsicht vorbeigebracht haben. Am n\'e4chsten Morgen m\'fcssen die B\'fccher dann bis 10 Uhr wieder zur\'fcck sein und auch am besten gleich in die Regale zur\'fcckgestellt werden.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die }{\f0\fs20\b\lang1033{\*\listtag0}Wochenendleihe}{\f0\fs20\lang1033{\*\listtag0} ist freitags schon ab 13 Uhr (bis 19.30 Uhr in der Vorlesungszeit) m\'f6glich. Die B\'fccher m\'fcssen dann am folgenden Montag bis 13 Uhr zur\'fcckgebracht werden. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}F\'fcr Examenskandidaten besteht daneben die M\'f6glichkeit, die B\'fccher etwas l\'e4nger auszuleihen; kleine Tests z\'e4hlen nicht dazu.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Wenn ihr }{\f0\fs20\b\lang1033{\*\listtag0}B\'fccher von zu Hause oder aus anderen Bibliotheken}{\f0\fs20\lang1033{\*\listtag0} in die KHI-Bibliothek hineinnehmen wollt, m\'fc\'dft ihr euch von der Bibliotheksaufsicht einen Zettel geben lassen, auf dem die Anzahl der mitgebrachten B\'fccher steht. Diesen Zettel solltet ihr bis zum Verlassen der Bibliothek in eurer Hosentasche behalten. Beim Hinausgehen wird er dann zur\'fcckgegeben.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\lang1033{\*\listtag0}Kopierger\'e4te}{\f0\fs20\lang1033{\*\listtag0}, die die Studenten nutzen d\'fcrfen, stehen in den beiden Bibliotheksteilen. Man braucht hier eine Kopierkarte zu 5 Euro (100 Kopien), die vollkommen isoliert von den Kopiersystemen anderer Institute gilt. Im Bibliotheksteil B werden im \'dcbrigen keine Kopierkarten verkauft, holt sie euch daher schlauerweise, bevor ihr die Treppen hochlauft! Auch wenn an den Kopierern im Bibliotheksteil A lange Schlangen stehen, d\'fcrft ihr die B\'fccher nicht mit nach Bibliotheksteil B mitnehmen, wogegen dies f\'fcr die Ordner aus dem Handapparat erlaubt ist.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Weitere Bibliotheken werden ab S. 14 unter 5. vorgestellt.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}3.3. Diathek}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Wir haben an unserem Institut auch das Gl\'fcck, eine eigene Diathek zu besitzen. Sie hat grob gesch\'e4tzt etwa 300.000 Dias als Bestand und sind unsere Bilderquelle f\'fcr Referate. Sie befindet sich auf der Ebene der Unterrichtsr\'e4ume im 1.Obergescho\'df, auf der anderen Seite des Treppenhauses, n\'e4mlich in Raum 155 bis 158. Die \'d6ffnungszeiten stehen an der T\'fcr oder im Internet. Die Leute, die die Diathek betreuen, sind studentische Hilfskr\'e4fte; also habt keine Angst, euch alles erkl\'e4ren zu lassen. Zu Beginn des Semesters oder im Grundkurs werden Diatheksf\'fchrungen angeboten, die wir euch dringendst ans Herz legen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Dias, die ihr f\'fcr das Referat ben\'f6tigt, k\'f6nnt und solltet ihr schon rechtzeitig in der Diathek aussuchen und im Regal zur\'fccklegen lassen. Daf\'fcr m\'fc\'dft ihr den Namen des Dozenten und die Lehrveranstaltung aufschreiben, etc.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Einen Tag vor eurem Referat k\'f6nnt ihr euch die Dias auch mit nach Hause nehmen, f\'fcr eure Generalprobe oder zur Sicherheit. Nach dem Referat m\'fcssen die Dias aber gleich wieder in die Diathek zur\'fcckgebracht werden. }
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Falls ihr euch f\'fcr ein Referat neue Dias machen lassen wollt, m\'fc\'dft ihr die Bestellung mindestens zwei Wochen vor dem Termin, an dem ihr sie zur Verf\'fcgung haben wollt, abgeben. Daf\'fcr bringt ihr die B\'fccher mit, aus denen die Bilder abfotografiert werden sollen und f\'fcllt einen Bestellschein aus. Ihr k\'f6nnt bis zu 10 Dias pro Referat bestellen, bei mehr Diaw\'fcnschen m\'fc\'dft ihr dies mit den Diatheksleuten absprechen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}3.4. Cafeteria des Studentenwerks}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Das Institutsgeb\'e4ude in der Koserstra\'dfe wird genauso wie die Uni-Mensen Berlins durch das Studentenwerk versorgt. }{\f0\fs20\lang1033{\*\listtag0}Wir haben nur - und immerhin \uc1\u8211\'96 eine Cafeteria im Erdgescho\'df, deren Produkte leider etwas teurer sind als die in den Mensen. Vor allem gehen hier Kunsthistoriker, Historiker und die Veterin\'e4rmediziner essen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die \'d6ffnungszeiten sind von 9 bis 16 Uhr, in der vorlesungsfreien Zeit des Sommersemester bekommen die Damen und Herren in den Kitteln und Sch\'fcrzen irgendwann eine Woche frei.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}3.5. KHI-Caf\'e9}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Wichtiger als die Cafeteria ist aber das }{\f0\fs20\b\lang1031{\*\listtag0}KHI-Caf\'e9 in Raum A 114}{\f0\fs20\lang1031{\*\listtag0}. }{\f0\fs20\lang1033{\*\listtag0}Dort gibt es Kaffee, Tee und andere Getr\'e4nke zu g\'fcnstigeren Preisen als in der Cafeteria. Gleichwohl ist der pers\'f6nliche Gewinn gr\'f6\'dfer, denn dieses Caf\'e9 ist Treffpunkt der Studenten aller Semesterzahlen, die in ihrem Wissens- und Kaffeedurst zusammenkommen. Es wird von Studenten f\'fcr Studenten Kaffee gebr\'fcht und man kann hemmungslos doofe und schlaue Fragen stellen. Jeder ist herzlich willkommen. Vor allem, wenn man sich nicht traut, gleich die Dozenten zu fragen, ist es gut, in diese \uc1\u8222\'84Informationsb\'f6rse\uc1\u8220\'93 zu schauen.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Die }{\f0\fs20\b\lang1031{\*\listtag0}\'d6ffnungszeiten sind an der T\'fcr ausgeh\'e4ngt}{\f0\fs20\lang1031{\*\listtag0}. Jeder, der Lust und Zeit hat, ab und zu Kaffee zu kochen, kann sich dort eintragen und sich die Funktionsweise erkl\'e4ren lassen Ohne Studenten l\'e4uft auch das KHI-Caf\'e9 nicht. Wer hier ab und zu vorbeischaut, d\'fcrfte sich \'fcber mangelnde Kommunikation und Hintergrundinfos nicht beschweren.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\tx360{\f0\fs24\b\ul\lang1031{\*\listtag0}Ansprechpartner am KHI}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Es gibt am KHI mehrere Einrichtungen, an die ihr euch je nach Problem oder Frage wenden k\'f6nnt bzw. m\'fc\'dft. Es ist wirklich sehr, sehr wichtig, dass ihr die Gelegenheiten wahrnehmt zu fragen. Sicherlich ist es bei Fragen sinnvoll, sich zun\'e4chst mit anderen Studenten zu unterhalten. Diese wissen vielleicht schon eine Antwort oder zumindest einen Tip, an wen man sich am besten wendet.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Wenn ihr also Probleme mit euren Referaten oder Hausarbeiten habt, dann seid ihr bei euren Dozenten richtig. Traut euch, auch wenn es vielleicht und auch sp\'e4ter immer noch schwerfallen kann. Vor allem hat jeder Dozent auch andere Erwartungen und Priorit\'e4ten. Bei Fragen zur Studienordnung oder anderen Dingen gibt es noch andere Einrichtungen, an die ihr eure Fragen gerne stellen k\'f6nnt.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s18\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}4.1. Fachschaft KHI}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die \uc1\u8222\'84studentische Fachschaftsinitiative\uc1\u8220\'93, kurz Fachschaft (oder noch k\'fcrzer: FSI oder Ini), des KHI istdie studentische Vertretung des KHI. Sie bem\'fcht sich, die Kommunikation unter den Studenten und zu den Dozenten zu verbessern und die studentischen Interessen auf verschiedene Arten zu vertreten. }{\f0\fs20\lang1033{\*\listtag0}Das KHI-Caf\'e9, die studentische Fachberatung sind etwa von der Fachschaft organisiert. Auch Feiern, Partys etc. fallen in unseren Kompetenzbereich. Es soll ja schlie\'dflich auch Spa\'df machen. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Mit den Historikern vom Caf\'e9 nebenan leben wir in \uc1\u8222\'84friedlicher Koexistenz\uc1\u8220\'93. Wir versuchen momentan, die Zusammenarbeit zu beleben. }{\f0\fs20\lang1031{\*\listtag0}Die Kaffeetassen haben uns diese schon immer vorweggenommen, was man an ihrer reziproken Migrationsbewegung beobachten konnte. }{\f0\fs20\lang1033{\*\listtag0}Und da wir uns f\'fcr das Studentenkollektiv einsetzen m\'f6chten, ist uns eure Meinung sehr wichtig. F\'fcr Anregungen und gute Ideen sind wir immer offen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s18\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}4.2. Studienfachberatung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die Studienfachberatung wird in der Studienordnung als \uc1\u8222\'84obligatorisch\uc1\u8220\'93 bezeichnet. Sie wird von Dozenten, die damit betraut worden sind, durchgef\'fchrt. Die Namen und die Sprechstunden h\'e4ngen aus und/oder sind im Internet. Derzeit sind Gisela Bungarten, Martin Schieder und Caroline Z\'f6hl damit beauftragt und es wird euch empfohlen, am Anfang des Studiums die Beratung in Anspruch zu nehmen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Vor der Zwischenpr\'fcfung m\'fc\'dft ihr aber auf jeden Fall dort hineingehen, damit eure Nachweise f\'fcr den Abschlu\'df des Grundstudiums \'fcberpr\'fcft werden und ihr zur Pr\'fcfung zugelassen werdet. Dazu braucht ihr vorher noch ein Anmeldeformular f\'fcr die Zwischenpr\'fcfung, die ihr im Gesch\'e4ftszimmer bekommt und ausgef\'fcllt zur Beratung mitnehmt.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}F\'fcr Fragen zum Auslandsjahr, z.B. mit dem ERASMUS-Programm wendet euch an die daf\'fcr Beauftragten. (s. 4.4.).}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s18\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}4.3. Studentische Beratung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Um Fragen zum Studium zu stellen, mit denen man sich nicht gleich vor den Dozenten outen m\'f6chte, wird eine studentische Beratung angeboten, die euch schlimmstenfalls auf die zust\'e4ndigen Dozenten etc. verweisen wird. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}In erster Linie sollen hier die Fragen zum Kunstgeschichtsstudium gekl\'e4rt werden. Andere Fragen werden wir auch versuchen zu beantworten. Im schlimmsten Fall werdet ihr an die zust\'e4ndigen Stellen oder Personen verwiesen. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die Sprechstunden werden noch am KHI-Caf\'e9 ausgehangen. Ihr k\'f6nnt Eure Fragen auch per e-mail an die Fachschaft richten, unter:}
+\par\pard\plain\ltrpar\qj\fi1053\s26\itap0{\f0\fs20\b\lang1031{\*\listtag0}fachschaftkunstgeschichte@hotmail.com}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Schlie\'dflich kann man sich einigen \'c4rger ersparen, wenn man rechtzeitig nach vorzuweisenden Dingen fragt und abkl\'e4rt. }{\f0\fs20\lang1033{\*\listtag0}Schlie\'dflich kostet fragen nichts und lieber einmal zu viel und zu doof gefragt als gar nicht. Denn sonst hat man nachher den ganzen Salat.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}4.4. SOKRATES/ERASMUS-Programm}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}F\'fcr Angelegenheiten zum Auslandsstudienjahr mit dem EU-Hochschulprogramm  SOKRATES/ERASMUS sind ebenfalls Dozenten betraut. Momentan ist Herr Prof. K\'f6nig mit Frau Kern zusammen verantwortlich, Ansprechpartner ist aber zun\'e4chst vor allem Frau Kern.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Das Auslandsjahr wird f\'fcr die Zeit nach der Zwischenpr\'fcfung empfohlen, damit man bestimmte Grundlagen mitnimmt. }{\f0\fs20\lang1031{\*\listtag0}Allgemeine Informationen zum ERASMUS-Programm und die Termine der Sprechstunden h\'e4ngen an der T\'fcr von Frau Dr. Margit Kern.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1031{\*\listtag0}4.5.  Beratungsstellen an der Freien Universit\'e4t Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Es gibt an der FU freilich noch \'fcbergeordnete Stellen, an die ihr euch bei Problemen oder f\'fcr Informationen und Beratungen, vor allem f\'fcr die Themen, die das Studium an der FU Berlin insgesamt betreffen, wenden k\'f6nnt. Spezialisierte Stellen gibt an mehreren Stellen \uc1\u8211\'96 sowohl von der Universit\'e4tsverwaltung als auch von der Studentenschaft \uc1\u8211\'96 etwa f\'fcr behinderte Studenten, f\'fcr ausl\'e4ndische Studenten oder das \uc1\u8222\'84Studieren mit Kind\uc1\u8220\'93. Zum Teil auch professionelle Psychologen oder Studenten mit langj\'e4hriger Erfahrung in Beratung und  \uc1\u8222\'84Krisenbek\'e4mpfung\uc1\u8220\'93 im Einsatz. Einige weitere Angaben findet ihr auf den letzten Seiten des KVV.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1031{\*\listtag0}ZE Studienberatung und Psychologische Beratung der FU Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Br\'fcmmerstra\'dfe 50}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}14195 Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}www.fu-berlin.de/studienberatung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Tel.: 838 5 2247 (Sekretariat)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Tel.: 838 5 5236 (Studieninformationen)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Tel.: 838 5 5242 (Anmeldung zur psychologischen Beratung)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die ZE Studienberatung veranstaltet neben ihren Beratungen auch psychologische Kurse. Ihre Abteilung Career Service besch\'e4ftigt sich vor allem mit der Beratung und Kursen in Richtung Beruf und Karriere, z.B. Bewerbungsberatung, Informationsveranstaltungen, Praktika..}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1031{\*\listtag0}Allgemeiner Studierendenausschu\'df (AStA) der FU Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Otto-von-Simson-Stra\'dfe 23}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}14195 Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}www.astafu.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Tel.: 839091-0}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Gew\'e4hlt von der StuPa (StudentInnenparlament) ist sie zust\'e4ndig f\'fcr \uc1\u8222\'84alle laufenden Gesch\'e4fte der Studentenschaft\uc1\u8220\'93, ist also eines der wichtigen studentischen Organe in der Hochschulpolitik.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Hier erhaltet ihr Hilfe von studentischer Seite; die AStA hat jeweils Fachreferate und \uc1\u8222\'84kampferprobte\uc1\u8220\'93 Studenten haben sicherlich gute und praktische Tips parat.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s57\f0\fs24\b\ul\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\keepn\tx360{\f0\fs24\b\ul\lang1031{\*\listtag0}Weitere Bibliotheken}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Freilich gibt es in einer Universit\'e4tsstadt wie Berlin mehrere Bibliotheken, die man sich zu Nutzen machen sollte. }{\f0\fs20\lang1033{\*\listtag0}Denn je mehr Bibliotheken man kennt, hat man gr\'f6\'dfere Chancen, im Run auf die B\'fccher Gl\'fcck zu haben. Wichtig ist in allen F\'e4llen, die angebotenen F\'fchrungen mitzumachen; das kann euch viel \'c4rger und Zeitverlust ersparen. In sp\'e4teren Stadien wird es notwendig werden, Fernleihen zu machen, dazu aber sp\'e4ter.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.1. Universit\'e4tsbiblitohek der Freien Universit\'e4t Berlin (\uc1\u8222\'84FUB\uc1\u8220\'93)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Kennen sollte man als Student an der FU neben der Bibliotheken der Institute, an denen man studiert, die Universit\'e4tsbibliothek (UB) in der Garystra\'dfe 39.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Dort kann man die meisten B\'fccher mit nach Hause ausleihen, die anderen B\'fccher kann man wenigstens im Lesesaal benutzen. Zug\'e4nge zu vielen Datenbanken und Katalogen, M\'f6glichkeiten der Fernleihe und eine Lehrbuchsammlung stehen zur Verf\'fcgung. Suchen, bestellen, vormerken oder verl\'e4ngern kann man online unter: http://opac.fu-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Als Benutzerausweis gilt hier euer Studentenausweis. F\'fcr weitere Informationen siehe: http://www.ub.fu-berlin.de }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s57\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.2. Staatsbibliothek zu Berlin Preu\'dfischer Kulturbesitz (\uc1\u8222\'84Stabi\uc1\u8220\'93)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die Stabi teilt sich vor allem in zwei Geb\'e4ude ein: Haus 1 (UdL oder \uc1\u8222\'84Stabi Ost\uc1\u8220\'93) und in Haus 2 (\uc1\u8222\'84Stabi West\uc1\u8220\'93). }{\f0\fs20\lang1033{\*\listtag0}Daneben gibt es noch die Zeitschriftenabteilung Westhafen. Beide Haupth\'e4user liegen sehr zentral und sind verkehrstechnisch gut zu erreichen, untereinander allerdings weniger, h\'f6chstens die Buslinien 200 und 248 verbinden diese ohne Umsteigen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Wenn man ein Buch sucht, dann ist es bei der Stabi sehr wahrscheinlich, dass sie es hat. Bei begehrten Titeln sind die Exemplare dann auch oft ausgeliehen. Das Tolle an der Stabi ist, dass sie lange \'d6ffnungszeiten hat, auch am Samstag aufhat und dass man sich die Titel online suchen, bestellen, verl\'e4ngern, und vormerken. Die Suche erfolgt \'fcber: http://www.stabikat.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die Verwaltung des Benutzerkontos \'fcber http://ausleihe.sbb.spk-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Sie hat gut ausgestattete Handbibliotheken, ein gro\'dfes Angebot an Datenbanken und Bibliographien, Kartenmaterial, Zeitschriftenangebot, Handschriften und andere Rara, grosse Leses\'e4le (vor Pr\'fcfungsphasen leider \'fcbervoll mit b\'fcffelnden Juristen u.\'e4., so dass Einlasssperren verh\'e4ngt werden), ein Kopierzentrum, eine Cafeteria, Internetarbeitspl\'e4tze, viele Computer f\'fcr die Recherche im Katalog. Fernleihen sind selbstverst\'e4ndlich auch m\'f6glich. Aber nur, wenn es den Titel  nicht in Berlin gibt. }{\f0\fs20\lang1031{\*\listtag0}Auch die Altbest\'e4nde u.a. der HU aus DDR-Zeiten mit ihrem Zettelkatalog sind f\'fcr die Literaturrecherche als Mikrofiches einsehbar. Allerdings ist f\'fcr die volle Nutzung der Stabi ein von allen anderen Bibliotheken und vom Studentenstatus unabh\'f6ngiger Jahresausweis erforderlich.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Hausanschriften:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Haus 1: Unter den Linden 8; 10117 Berlin}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Haus 2: Potsdamer Strasse 33; 10785 Berlin}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Homepage: www.sbb.spk-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.3. Kunstbibliothek Preu\'dfischer Kulturbesitz (\uc1\u8222\'84KuBi\uc1\u8220\'93)}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}F\'fcr Kunsthistoriker absolut unumg\'e4nglich ist die Kunstbibliothek, genannt KuBi. Sie befindet sich am Kulturforum im Museumskomplex. Wenn man in Berlin kunsthistorischer Literatur sucht und nicht findet, dann muss man sp\'e4testens hier hineinschauen. Sie ist eine reine Pr\'e4senzbibliothek, die Bereitsstellung der B\'fccher dauert allerdings recht lang und selber kopieren darf man auch nicht. Man muss dort den Kopierdienst bitten, der dann zum einen etwas teurer ist und zum anderen leider auch l\'e4nger f\'fcr die Bearbeitung braucht. Aber manchmal kann man auf solche Dinge eben keine R\'fccksicht nehmen, wenn es um die Wissenschaft geht. Die Suche ist u.a. m\'f6glich im Verbund der KuBi mit dem Ibero-Amerikanischen Institut:}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}http://www.iai.spk-berlin.de/webpac}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.4. Bibliotheken der Hochschulen & Stiftungen Berlins und Brandenburgs, KOBV}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Auch die anderen Hochschulbibliotheken sind gut ausgestattet, jeweils auch mit Sammelschwerpunkten. }{\f0\fs20\lang1033{\*\listtag0}Neben den zentralen UBs gibt es auch dort z.T. jeweils Institutsbibliotheken, die man auch aufsuchen darf.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Humboldt-Universit\'e4t:  http://www.ub.hu-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Technische Universit\'e4t Berlin:  http://www.ub.tu-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Universit\'e4t der K\'fcnste Berlin:  http://opac.udk-berlin.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die Best\'e4nde dieser gro\'dfen Bibliotheken der Unis, der Preu\'dfischen Kulturbesitzes und zus\'e4tzlich von Stiftungen und anderen Archiven in Berlin und Brandenburg findet man zusammengeschlossen unter: }{\f0\fs20\b\lang1033{\*\listtag0}www.kobv.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Ein sehr hilfreicher Link zum Kooperativen Bibliotheksverbund Berlin-Brandenburg, denn Potsdam ist nun nicht weit weg, den Bibliotheksbesuch kann man durchaus kombinieren mit einem Tagesausflug, ansonsten ist bei einer Fernleihe auch die Transportstrecke nicht weit. Au\'dferdem kommt es in Berlin nun mal \'f6fter vor, dass man Leute trifft, die aus der Umgebung Berlins kommen und gerne ein paar Seiten f\'fcr Dich kopieren! (Beruht nat\'fcrlich auf Gegenseitigkeit!)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Zus\'e4tzlich bietet die Website auch noch gute Links zu den anderen Bibliotheksverb\'fcnden in Deutschland, wobei man auch direkt Titel einfach suchen kann. Wie gut, dass es das Internet gibt. (s. auch unten)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.5. Stadtbibliotheken}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Berlin hat neben den gro\'dfen Bibliotheken und Archiven auch die klassische Stadtbibliothek, die jedem Berliner B\'fcrger zur Verf\'fcgung stehen. }{\f0\fs20\lang1033{\*\listtag0}Diese sind, was ihre Best\'e4nde betrifft, nicht zu verachten. Es finden sich hier erstaunlicherweise immer wieder wissenschaftliche Titel, die nicht einmal haben die gro\'dfen Bibliotheken. }{\f0\fs20\lang1031{\*\listtag0}Von den Bibliotheken im Kiez bei euch um die Ecke bis zur sehr gut ausgestatteten Amerika-Gedenkbibliothek (\uc1\u8222\'84AGB\uc1\u8220\'93) und der Bibliothek f\'fcr Berlin-Studien mit ihren Quellen und alten Dokumenten findet ihr zusammengeschlossen im Verbund der \'d6ffentlichen Bibliotheken Berlins: }{\f0\fs20\b\lang1031{\*\listtag0}https://www.voebb.de}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Man kann sich die Titel auch in andere Verbundsbibliotheken bestellen, muss dann aber mehr oder weniger hohe Geb\'fchren zahlen, au\'dferdem kostet die schrifliche Benachrichtigung immer einige Cents. Auch f\'fcr diesen Verbund ist ein eigener Ausweis erforderlich, der sich wirklich lohnt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}5.6. Weiter Bibliotheksverb\'fcnde}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Das, was in Berlin-Brandenburg der KOBV ist, gibt es auch f\'fcr die anderen Regionen Deutschlands. }{\f0\fs20\lang1033{\*\listtag0}Literatur kann man }
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}GBV (Gemeinsamer Bibliotheksverbund G\'f6ttingen) f\'fcr Nord- und Mitteldeutschland: http://www.gbv.de}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}BVB (Bibliotheksverbund Bayern): http://www.bbz-nrw.de}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}BSZ (S\'fcdwestdeutscher Bibliotheksverbund) f\'fcr S\'fcdwestdeutschland und Sachsen: http://www.bsz-bw.de}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}HBZ (Nordrhein-westf\'e4lischer Bibliotheksverbund): http://www.hbz-nrw.de}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Hebis (Hessisches Bibliotheksinformationssystem): http://www.hebis.de }
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1008\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls9\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Zeitschriftendatenbank: http://www.zeitschriftendatenbank.de}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\tx360{\f0\fs24\b\ul\lang1033{\*\listtag0}Weitere n\'fctzliche Informationen}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Im folgenden haben wir f\'fcr euch eine Liste von kunsthistorisch relevanten Publikationen zusammengestellt, die selbstverst\'e4ndlich nur f\'fcr den \uc1\u8220\'93blutigen Anfang\uc1\u8221\'94 gedacht ist und jedem Anspruch von Vollst\'e4ndigkeit entsagt. Ihr werdet schon bald merken, welche Titel so gut sind, dass ihr sie f\'fcr euer h\'e4usliches B\'fccherregal kaufen werdet. Schaut euch die Titel am besten vor dem Erwerb in der Bibliothek oder in den Buchhandlungen an.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Wir werden euch einen Ordner in den Handapparat stellen, in dem ihr weitere Angaben zu Standardliteratur, Handb\'fccher, Bibliographien, Nachschlagewerken, Tips und Titel zum Fach Kunstgeschichte, zur Literaturrecherche, zur Anfertigung von Hausarbeiten u. a. finden werdet.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Bitte verwendet den Inhalt des Ordners nur als Kopiervorlage. D.h., dass ihr die Bl\'e4tter nur zum Kopieren herausnehmen d\'fcrft, sie anschlie\'dfend aber in den Ordner zur\'fccktut und diesen dann wieder in den Handapparat stellt. }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}6.1. \uc1\u8222\'84must have\uc1\u8220\'93-Literatur (erschwinglich!)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Je nach Kunstgattung, Epoche oder anderen Kriterien gibt es immer wieder \uc1\u8222\'84die\uc1\u8220\'93 Standardwerke. }{\f0\fs20\lang1033{\*\listtag0}Die werdet Ihr schon noch mitbekommen. Doch es gibt Standard-\'dcberblicksb\'fccher und Nachschlagewerke, die gut dazu sind, um richtig peinliche Wissensl\'fccken provisorisch zu decken. Diese sollten euch eines Tages gel\'e4ufig \'fcber die Lippen kommen. Die folgenden Titel sind dabei relativ erschwingliche Titel. Die unter \uc1\u8222\'84Berlin\uc1\u8220\'93 angegebenen Berlin-F\'fchrer sind ein absolutes Mu\'df f\'fcr uns, die wir in Berlin studieren und leben. Schlie\'dflich soll man seine Studienstadt gut kennenlernen, zumal die Berliner Kunstgeschichte unumg\'e4ngliches Thema jeder Zwischenpr\'fcfung ist.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Beachtet, dass diese Standardpublikationen st\'e4ndig neu aufgelegt werden, daher k\'f6nnen die folgenden Jahreszahlen auch schon \'fcberholt sein. (Die Hochzahlen vor der Jahreszahl geben die Auflage wieder.)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1031{\*\listtag0}Kunst allgemein, Kunstgattungen, Kunstgeschichte:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Hans Belting, Heinrich Dilly, Wolfgang Kemp, Willibald Sauerl\'e4nder und Martin  Warnke (Hg.), Kunstgeschichte. Eine Einf\'fchrung, Berlin }{\f0\fs20\super\lang1031{\*\listtag0}5}{\f0\fs20\lang1031{\*\listtag0}1996.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Ernst H. Gombrich, Die Geschichte der Kunst, Berlin }{\f0\fs20\super\lang1031{\*\listtag0}16}{\f0\fs20\lang1031{\*\listtag0}1996.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Hugh Honour und John Fleming, Weltgeschichte der Kunst, M\'fcnchen }{\f0\fs20\super\lang1033{\*\listtag0}5}{\f0\fs20\lang1033{\*\listtag0}1999.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Wilfried Koch, Baustilkunde, G\'fctersloh }{\f0\fs20\super\lang1031{\*\listtag0}22}{\f0\fs20\lang1031{\*\listtag0}2000.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Walter Koschatzky, Die Kunst der Zeichnung, M\'fcnchen 1999. }
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Ders., Die Kunst der Graphik, M\'fcnchen }{\f0\fs20\super\lang1031{\*\listtag0}13}{\f0\fs20\lang1031{\*\listtag0}1999.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Ders., Die Kunst des Aquarells, M\'fcnchen 1999.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Nikolaus Pevsner, Hugh Honour und John Fleming, Lexikon der Weltarchitektur, M\'fcnchen }{\f0\fs20\super\lang1033{\*\listtag0}3}{\f0\fs20\lang1033{\*\listtag0}1992.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Nikolaus Pevsner, Europ\'e4ische Architektur. Von den Anf\'e4ngen bis zur Gegenwart, M\'fcnchen }{\f0\fs20\super\lang1033{\*\listtag0}8}{\f0\fs20\lang1033{\*\listtag0}1994.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Werner Busch (Hrsg.), Funkkolleg Kunst. Eine Geschichte der Kunst im Wandel ihrer Funktionen, M\'fcnchen 1987, Neuausgabe 1997.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Kunsthistorische Arbeitsbl\'e4tter (\uc1\u8222\'84KAb\uc1\u8220\'93). }{\f0\fs20\lang1031{\*\listtag0}Zeitschrift f\'fcr Studium und Hochschulkontakt (Abonnement zum Studentenpreis m\'f6glich), siehe auch www.kabonline.de}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s57\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}Berlin:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Eva und Helmut B\'f6rsch-Supan, G\'fcnther K\'fchne und Hella Reefs, Kunstf\'fchrer Berlin, Stuttgart }{\f0\fs20\super\lang1033{\*\listtag0}4}{\f0\fs20\lang1033{\*\listtag0}1991.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Georg Dehio, Handbuch der Deutschen Kunstdenkm\'e4ler, Bd. Berlin, M\'fcnchen/Berlin }{\f0\fs20\super\lang1033{\*\listtag0}2}{\f0\fs20\lang1033{\*\listtag0}2000.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Martin W\'f6rner, Doris Mollenschott und Karl-Heinz H\'fcter, Architekturf\'fchrer Berlin, Berlin }{\f0\fs20\super\lang1033{\*\listtag0}6}{\f0\fs20\lang1033{\*\listtag0}2001.}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\ul\lang1031{\*\listtag0}Handliche und erschwingliche Nachschlagewerke}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Michael Grant und John Hazel, Lexikon der antiken Mythen und Gestalten, M\'fcnchen }{\f0\fs20\super\lang1031{\*\listtag0}15}{\f0\fs20\lang1031{\*\listtag0}2000.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Johannes Jahn und Wolfgang Haubenrei\'dfer, W\'f6rterbuch der Kunst, Stuttgart }{\f0\fs20\super\lang1033{\*\listtag0}12}{\f0\fs20\lang1033{\*\listtag0}1995.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Hiltgart L. Keller, Reclams Lexikon der Heiligen und der biblischen Gestalten, Legende und Darstellung in der bildenden Kunst, Stuttgart }{\f0\fs20\super\lang1033{\*\listtag0}8}{\f0\fs20\lang1033{\*\listtag0}1996.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Hans Koepf/G\'fcnther Binding, Bildw\'f6rterbuch der Architektur, Stuttgart }{\f0\fs20\super\lang1033{\*\listtag0}3}{\f0\fs20\lang1033{\*\listtag0}1999.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Kleines W\'f6rterbuch der Architektur (Reclam), Stuttgart }{\f0\fs20\super\lang1033{\*\listtag0}6}{\f0\fs20\lang1033{\*\listtag0}1999.}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s18\itap0\keepn\tx0{\f0\fs20\b\ul\lang1031{\*\listtag0}6.2.Hilfen zum wissenschaftlichen Arbeiten}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Die folgenden Titel sind mehrb\'e4ndig, umfangreich und auch meist ziemlich teuer. Es gibt aber bei dem einen oder anderen Titel mittlerweile Paperback- bzw. Studienausgaben zu g\'fcnstigeren Preisen. Ob sich der Erwerb lohnt, h\'e4ngt von eurer individuellen Erfahrung ab. Jedenfalls stehen au\'dfer den Exemplaren der kunsthistorischen Bibliothek, vor allem fach\'fcbergreifende Nachschlagewerke (z.B. LCI, RE, LThK, Handbuch der historischen St\'e4tten), auch bei den Historikern in den Regalen. Bei Publikationen/Themen mit st\'e4rkerem Bezug zur Geschichte lohnt sich immer ein Blick in die Best\'e4nde des FMI.}
+\par\pard\plain\ltrpar\qj\s36\itap0{\f0\fs20\lang1031{\*\listtag0}Hilfreich k\'f6nnte die Publikation \uc1\u8222\'84Wie finde ich kunstwissenschaftliche Literatur?\uc1\u8220\'93 von Barbara Wilk-Mincu (unter Mitarbeit von Frank Heidtmann), erschienen 1992 (3.Aufl.) in Berlin, sein.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\ul\lang1031{\*\listtag0}Mehrb\'e4ndige \'dcbersichts- und Nachschlagewerke, Lexika}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Dictionary of Art, hg, von Jane Turner, 34 Bde., London 1996.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Lexikon der Kunst, 7 Bde., Leipzig 1987-1994.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Propyl\'e4en-Kunstgeschichte, Berlin 1966-1983.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Reallexikon zur deutschen Kunstgeschichte. (RDK), M\'fcnchen 1937ff.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}\uc1\u8220\'93Thieme/Becker\uc1\u8221\'94, Allgemeines Lexikon der bildenden K\'fcnstler von der Antike bis zur Gegenwart, hg. von Ulrich Thieme und Felix Becker, 37 Bde., Leipzig 1907-1950.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Allgemeines K\'fcnstlerlexikon. }{\f0\fs20\lang1031{\*\listtag0}Die bildenden K\'fcnstler aller Zeiten und V\'f6lker, hg. vom K. G. Saur Verlag, M\'fcnchen/Leipzig 1992ff. }{\f0\fs20\lang1033{\*\listtag0}(Fortsetzung vom Thieme/Becker)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Handbuch der historischen St\'e4tten: Deutschland}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}LCI (Lexikon der christlichen Ikonographie, hg. von Engelbert Kirschbaum, 8 Bde., Freiburg im Breisgau 1968-1976.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}RE (Paulys Realenzyklop\'e4die der classischen Altertumswissenschaft, 68 Bde., 15 Erg\'e4nzungsb\'e4nde, Stuttgart 1893-1980.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Der Kleine Pauly. Lexikon der Antike, 5 Bde, M\'fcnchen 1979.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}LexMA (Lexikon des Mittelalters), M\'fcnchen/Z\'fcrich 1980ff.}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}LThK (Lexikon f\'fcr Theologie und Kirche), }{\f0\fs20\super\lang1033{\*\listtag0}3}{\f0\fs20\lang1033{\*\listtag0}1996ff.}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s58\itap0\keepn\tx0{\f0\fs20\ul\lang1031{\*\listtag0}Bibliographien}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}(zum Nachschlagen von verschiedenen Publikationen zu einem konkreten Objekt oder einer Institution, z.B. Museen)}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}bis 1979: RILA (International Repertory of the Literature of Art/R}{\f0\fs20\lang1036{\*\listtag0}\'e9}{\f0\fs20\lang1033{\*\listtag0}pertoire international de la litt\'e9rature de l\uc1\u8216\'91art)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1036{\*\listtag0}parallel zur RILA: RAA (R\'e9pertoire d\uc1\u8217\'92Art et d\uc1\u8217\'92Arch\'e9ologie)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}ab 1980: BHA (Bibliography of the History of Art oder Bibliographie de l\uc1\u8217\'92histoire de l\uc1\u8217\'92art) }
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Avory Index of Architecture}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die RILA und ihre Fortsetzung BHA stehen in der Bibliothek des KHI sowohl auf CD-Rom als auch als gedruckte Ausgabe zur Verf\'fcgung. }{\f0\fs20\lang1033{\*\listtag0}Neuerdings wird ist sie auch online als Test-Angebot von der UB der FU zur Verf\'fcgung gestellt. }{\f0\fs20\lang1031{\*\listtag0}F\'fcr die Benutzung von zu Hause aus m\'fc\'dft ihr allerdings einen ZEDAT-account haben und euch durch das FU-Netz einw\'e4hlen. }{\f0\fs20\lang1033{\*\listtag0}(N\'e4heres unter www.ub.fu-berlin.de/datenbanken)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1033{\*\listtag0}6.3. Adressen KHI}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die meisten und vor allem aktuellsten Telefon- und Raumnummern und andere Kontaktm\'f6glichkeiten stehen im KVV oder im Internet. }{\f0\fs20\lang1033{\*\listtag0}Dennoch seien die relativ unver\'e4nderlichen Daten im folgenden aufgef\'fchrt.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Freie Universit\'e4t Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}FB Geschichts- und Kulturwissenschaften}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Kunsthistorisches Institut}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Koserstra\'dfe 20}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}14195 Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}www.fu-berlin.de/kunstgeschichte}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s61\itap0\keepn\tx0{\f0\fs20\ul\lang1031{\*\listtag0}Gesch\'e4ftszimmer (Frau Smit); Raum A293}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Tel.: (030) 838\uc1\u8211\'96538-00}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Fax: (030) 838-538-10}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}e: khi@zedat.fu-berlin.de}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\i\lang1031{\*\listtag0}\'d6ffnungszeiten}{\f0\fs20\lang1031{\*\listtag0}: siehe Aushang}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1031{\*\listtag0}B\'fcros der Dozenten des KHI im 2. }{\f0\fs20\ul\lang1033{\*\listtag0}Obergescho\'df}
+\par\pard\plain\ltrpar\qj\fi1\li181\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Die Raumverteilung ist am Glaskasten in der N\'e4he des Gesch\'e4ftszimmers ausgehangen. Sprechstunden finden meist nur nach Vereinbarung statt oder sind an den jeweilgen T\'fcren ausgehangen. Telefonnummern und e-mail-Adressen im Internet, im KVV oder im Vorlesungsverzeichnis der gesamten FU}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1033{\*\listtag0}Fachschaft Kunstgeschichte}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}  Im KHI-Caf\'e9 (Raum 114) oder unter}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}  fachschaftkunstgeschichte@hotmail.com}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1036{\*\listtag0}Bibliothek des KHI (Teil A)}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Erdgescho\'df des Koserstrasse}
+\par\pard\plain\ltrpar\qj\fi180\s26\itap0{\f0\fs20\i\lang1033{\*\listtag0}\'d6ffnungszeiten}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Vorlesungszeit:  Mo\uc1\u8211\'96Fr  9-20 Uhr}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Vorlesungsfreie Zeit:  Mo-Fr  9-19 Uhr}
+\par\pard\plain\ltrpar\qj\fi400\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1033{\*\listtag0}Bibliothek des KHI (Teil B)}
+\par\pard\plain\ltrpar\qj\fi20\li177\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Eingang links neben H\'f6rsaal B (anschlie\'dfend Treppe ins 1. Obergescho\'df)}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\i\lang1033{\*\listtag0}\'d6ffnungszeiten}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Vorlesungszeit und Vorlesungsfreie Zeit:  Mo-Fr 11-17 Uhr}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\ul\lang1033{\*\listtag0}Diathek}
+\par\pard\plain\ltrpar\qj\fi-63\li244\s26\itap0{\f0\fs20\lang1033{\*\listtag0}1. Obergescho\'df (Raum 155-158)}
+\par\pard\plain\ltrpar\qj\fi200\s26\itap0{\f0\fs20\i\lang1033{\*\listtag0}\'d6ffnungszeiten}{\f0\fs20\lang1033{\*\listtag0}: siehe Aushang}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\b\ul\lang1031{\*\listtag0}6.4. Wichtige Museen in Berlin}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Die folgende Aufz\'e4hlung der Museen gibt nat\'fcrlich nicht die Gesamtheit der Berliner Museen wieder. }{\f0\fs20\lang1033{\*\listtag0}Einige unter ihnen sind zur Zeit leider noch geschlossen.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Au\'dferdem besitzt Berlin eine gro\'dfe Anzahl von Schl\'f6ssern, Galerien, Auktionsh\'e4usern und anderen Ausstellungsr\'e4umen. Informiert euch! (Hilfreich und informativ beispielsweise das monatlich erscheinende \uc1\u8222\'84Berlin Programm\uc1\u8220\'93.)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Weitere \uc1\u8222\'84hot spots\uc1\u8220\'93, d.h. Pl\'e4tze, Stra\'dfen, Bauwerke, Denkm\'e4ler und Anlagen, die ihr sonst noch kennenlernen m\'fc\'dft, wenn ihr euch als Berliner Studenten bezeichnen wollt, findet ihr in den Berlin-F\'fchrern unter 6.1., aber f\'fcr den Anfang auch in jedem Reisef\'fchrer f\'fcr Berlin.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Kulturforum:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Gem\'e4ldegalerie}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Kunstgewerbemuseum (Schlo\'df K\'f6penick auch bald zug\'e4nglich)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Kupferstichkabinett}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Sonderausstellungshallen}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Musikinstrumenten-Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Neue Nationalgalerie}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}\uc1\u8222\'84Museumsinsel\uc1\u8220\'93:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Alte Nationalgalerie}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Altes Museum/Antikensammlung}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1031{\*\listtag0}Pergamonmuseum/Vorderasiatisches Museum/Museum f\'fcr Islamische Kunst}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Bodemuseum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Schinkel-Museum (Friedrichwerdersche Kirche)}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Neues Museum}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1031{\*\listtag0}Sonst noch in Mitte:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Deutsche Guggenheim Berlin}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Deutsches Historisches Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}M\'e4rkisches Museum}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Charlottenburg:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}\'c4gyptisches Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Sammlung Berggruen}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Br\'f6han-Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Schlo\'df Charlottenburg}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Museum f\'fcr Vor- und Fr\'fchgeschichte}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}K\'e4the-Kollwitz-Museum Berlin}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Kreuzberg:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}J\'fcdisches Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Martin-Gropius-Bau}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Prenzlauer Berg:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Vitra Design Museum Berlin}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Tiergarten:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Bauhaus-Archiv}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}DaimlerChrysler Contemporary}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Hamburger Bahnhof-Museum f\'fcr Gegenwart}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs20\lang1033{\*\listtag0}Zehlendorf:}
+\par{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Museum f\'fcr Ostasiatische Kunst}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Museum Europ\'e4ischer Kulturen}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Museum f\'fcr Indische Kunst}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Ethnologisches Museum}
+\par}{\listtext\pard\qj\fi-360\li360\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1009\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont Symbol}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls10\ilvl0\itap0\tx360{\f0\fs20\lang1033{\*\listtag0}Br\'fccke-Museum}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}}
+\sect\sectd\sbknone\colsx360\margtsxn902\margbsxn900\marglsxn1076\margrsxn1009\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par{\listtext\pard\qj\fi-360\li360  	}}\pard\plain{\ltrpar\qj\fi-360\li360\s26\f2\fs24\lang1031{\*\listtag0}{\*\abilist\abilistid1006\abilistparentid0\abilistlevel2\abistartat1{\abifieldfont Times New Roman}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnprev\pnlvl9\pndec{\pntxtb }{\pntxta .}}\fn-360\li360\ls7\ilvl1\itap0\tx360{\f0\fs24\b\ul\lang1031{\*\listtag0}Glossar und Sachregister}
+}\sect\sectd\sbknone\cols2\colsx2\margtsxn902\margbsxn900\marglsxn1076\margrsxn1009\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Akademisches Auslandsamt}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Akademisches Viertel}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}\tab \tab }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Auslandsstudienjahr}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Ausstellungen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Berlin-Teil}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1036{\*\listtag0}Bibliothek}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1036{\*\listtag0}Blockseminar}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1036{\*\listtag0}Caf\'e9 des KHI}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Cafeteria}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1033{\*\listtag0}c.t. (cum tempore)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Dekan}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Diathek}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Dissertation}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Einf\'fchrungsveranstaltung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}ERASMUS}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s37\itap0{\f0\fs18\lang1031{\*\listtag0}Zentrale FU-Einrichtung f\'fcr internationale Angelegenheiten, ausl\'e4ndische Studenten, DAAD, Auslandsstudienjahre, etc. (}{\field{\*\fldinst {\f0\fs24\lang1031{\*\listtag0} HYPERLINK "http://www.fu-berlin.de/fu-international"}}}{\f0\fs24\lang1031{\*\listtag0}www.fu-berlin.de/fu-international}{\f0\fs18\lang1031{\*\listtag0})}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s37\itap0{\f0\fs18\lang1031{\*\listtag0}Beginn der Veranstaltung um 15 min. sp\'e4ter als die angegebene Zeit}
+\par\pard\plain\ltrpar\qj\fi-175\li177\s46\itap0{\f0\fs18\lang1031{\*\listtag0}Zwei Semester an einer Hochschule im Ausland w\'e4hrend des Studiums}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Ja, davon gibt es in Berlin immer gleichzeitig viele; die gro\'dfen Museen sollten euch bald gel\'e4ufig sein}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Fester Bestandteil der Zwischenpr\'fcfung zu Berlin-Kenntnissen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}B\'fccherei, was denn sonst! S.10-11; S.14-17}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Seminar, das nicht im Wochenturnus stattfindet, sondern in \uc1\u8222\'84geballter Form\uc1\u8220\'93 an einem angegebenen Termin }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studentisches Caf\'e9, S.10}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}\uc1\u8222\'84Quasi-Mensa\uc1\u8220\'93 vom Studentenwerk, nur teurer, S.9}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}s. Akademisches Viertel}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Vorsitzender des Fachbereichs}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Diasammlung in Raum 155-158; S.12}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Schiftliche Qualifikationsarbeit f\'fcr die Promotion (f\'fcr den Dr.-Titel)}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}zu Beginn des Semesters, das Institut stellt sich vor; Lehrveranstaltungen werden kommentiert}
+\par\pard\plain\ltrpar\qj\fi-175\li177\s46\itap0{\f0\fs18\lang1033{\*\listtag0}European Community Action Scheme for the Mobility of University Students. }{\f0\fs18\lang1031{\*\listtag0}(Diese Aufl\'f6sung der Abk\'fcrzung kennt kaum einer! }{\f5\fs18\lang1031{\*\listtag0}J}{\f0\fs18\lang1031{\*\listtag0}) ERASMUS ist der Hochschul-Teil des EU-Bildungsprogramms SOKRATES, soll die Internationalit\'e4t und Mobilit\'e4t der Studenten f\'f6rdern, S.14}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}\tab }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Exkursion}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Exmatrikulation}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Fachbereich (FB)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Fachschaft (FSI)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Gesch\'e4ftszimmer}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s37\itap0{\f0\fs18\lang1031{\*\listtag0}Grundkurs (GK)}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s37\itap0{\f0\fs18\lang1031{\*\listtag0}Grundstudenten}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Grundstudium }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hauptf\'e4chler}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hauptseminar (HS)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hauptstudenten}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hauptstudium}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hausarbeit}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}HiWi}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Institut}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Lehrk\'f6rper}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}studienrelevanter Ausflug}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Wird bald bei \'fcberm\'e4\'dfiger \'dcberziehung der Regelstudienzeit zwangsweise eingef\'fchrt.}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Fachliche Einheit in der universit\'e4ren Struktur; das KHI ist eines der 30 Institute (WE) des FBs Geschichts- und Kulturwissenschaften}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studentische Fachschaftsinitiative\uc1\u8220\'93; Vertretung der Studentenschaft am KHI, S.13}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Zentrales B\'fcro des KHI (Raum A 293), S.9}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Pflicht-LV f\'fcr den Studienbeginn, S.6}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studenten im Grundstudium}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studienphase zum Erwerb der fachlichen Grundkenntnisse; (idealiter 1. bis 4. }{\f0\fs18\lang1033{\*\listtag0}Semester), wird in    Kunstgeschichte mit der Zwischenpr\'fcfung abgeschlossen; S. 5ff.}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s37\itap0{\f0\fs18\lang1031{\*\listtag0}Studenten, die Kunstgeschichte in der Magister-Fachkombination als Hauptfach gew\'e4hlt haben}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Seminar f\'fcr Hauptstudenten, S.7}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studenten im Hauptstudium}
+\par\pard\plain\ltrpar\qj\fi-175\li177\s45\itap0{\f0\fs18\lang1031{\*\listtag0}Zweite Studienphase (5. bis 9. Semester im Idealfall), wird mit den Magisterpr\'fcfungen (evtl. mit Magisterarbeit) abgeschlossen, S.5}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Schriftliche, wissenschaftliche Arbeit, meist etwa in ausgearbeiteter Form des Referats, S.5}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studentische Hilfskraft, d.h. ein Student, der  bei der wissenschaftlichen Arbeit eines Profs hilft und jobbt.}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Wissenschaftliche Einrichtung f\'fcr ein Studienfach}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Universit\'e4ts-, Junior- und Gastprofessoren, Privat-, Gastdozenten, Wissenschaftliche Mitarbeiter, Lehrbeauftragte}
+\par\pard\plain\ltrpar\qj\ri-26\s43\itap0{\f0\fs24\lang1036{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\ri-26\s43\itap0{\f0\fs18\lang1031{\*\listtag0}Leistungsnachweis }
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}M.A. (Magister Artium)}
+\par\pard\plain\ltrpar\qj\fi-270\li270\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Magisterpr\'fcfungsordnung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1033{\*\listtag0}  (MagisterPO)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-270\li270\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Nebenf\'e4chler}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}OPACs}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Promotion}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}PD (Privatdozent)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Proseminar}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Referat}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Ringvorlesung}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Scheine }
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Semesterwochenstunden}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}  (SWS)}
+\par\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Sprachen}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1036{\*\listtag0}s.t. (sine tempore)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}studentische Beratung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studienbuchseite}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li135\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Sog. \uc1\u8222\'84Schein\uc1\u8220\'93, benotet oder beim GK auch unbenotet, S.5-7}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Akademischer Grad beim erfolgreichen Abschlu\'df des Magisterstudiums}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Allgemeine Pr\'fcfungsregelung f\'fcr die Magisterstudieng\'e4nge an der FU Berlin; die Studienordnung bestimmt die fachlichen Details, S.5, 9}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-135\li178\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studenten mit Kunstgeschichte als Nebenfach ihrer Magister-Fachkombination}
+\par\pard\plain\ltrpar\qj\fi-175\li177\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Online-Kataloge f\'fcr Best\'e4nde von Bibliotheken; Abk\'fcrzung f\'fcr Online Puclic Access Catalogue}
+\par\pard\plain\ltrpar\qj\fi-135\li178\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Verfahren zum Erhalt des Dr.-Titels; die Aspiranten hei\'dfen \uc1\u8222\'84Promovenden\uc1\u8220\'93, nicht Promoteure, Promotoren oder so!}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Habilitierte Dozenten, die keine C4-Professur innehaben}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Lehrveranstaltung f\'fcrs Grundstudium, meist mit Referaten und schriftl. Hausarbeit; S.6}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}M\'fcndliche wissenschaftliche Pr\'e4sentation}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Vortragsreihe am KHI unter einem Oberthema mit Vortr\'e4gen von KHI-Dozenten oder/und von eingeladenene G\'e4sten}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Bescheinung der \uc1\u8222\'84erfolgreichen Teilahme\uc1\u8220\'93 an  einer Lehrveranstaltung; (benotet oder unbenotet); S.5}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}W\'f6chentliche Stundenanzahl (Dauer) einer LV; S.6}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Bis zur Zwischenpr\'fcfung sind 2 moderne Sprachen nachzuweisen (+ Latein f\'fcr Hauptf\'e4chler); S.5, 7}
+\par\pard\plain\ltrpar\qj\fi-270\li270\s37\itap0{\f0\fs18\lang1031{\*\listtag0}P\'fcnktlicher Beginn einer Veranstaltung}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Beratung durch Studenten zu studien- und fachrelevanten und nicht-relevanten Fragen, S.14}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Euer Studien-\uc1\u8222\'84Tagebuch\uc1\u8220\'93, in das ihr alle }
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studienberatung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studienordnung(StO)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Srudienreform}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-270\li270\ri-25\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-270\li270\ri-25\s37\itap0{\f0\fs18\lang1031{\*\listtag0}\'dcbung (\'dc)}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Urlaubssemester}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\li2\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Vorlesung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Vortr\'e4ge}
+\par\pard\plain\ltrpar\qj\fi-270\li270\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Wiss. Mit.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Zwangsberatung}
+\par\pard\plain\ltrpar\qj\fi-270\li270\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\fi-270\li270\s37\itap0{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Zwischenpr\'fcfung}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}besuchten LVs eintragt. Diese Seite errhaltet ihr immer mit den Immatrikulationsbescheinigungen, S.8}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Beratung durch beauftragte Dozenten, S.13}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Studienregelung eines Fachs, S.5, S.9}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Anpassender Umbau der bisherigen Studieng\'e4nge zu den im Ausland verbreiteten Bachelor und Master-System}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Lehrveranstaltung mit Praxisbezug; S.6}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Hochschulsemester, in denen man mit dem Studium pausiert. Sie werden als Hochschulsemester, nicht aber als Fachsemester angerechnet.}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Klassische Form der universit\'e4ren Lehre in Vortragsform und nahezu stenographierenden (Scherz!) Studenten, S.6}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Standardform der Pr\'e4sentation von wissenschaftlichen Arbeiten und anschlie\'dfender Diskussion; in der Disziplin Kunstgeschichte stets mit Dias.}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Wissenschaftlicher Mitarbeiter; Akademiker, die bspw. w\'e4hrend ihrer Promotion oder Habilitation unter (bei) einem Prof. arbeiten}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Eine Beratung, zu der man bei der gr\'f6beren \'dcberziehung der Regeldstudienzeit zwangsm\'e4\'dfig beordert wird, und bei Nichterf\'fcllung der dort bestimmten Auflagen exmatrikuliert wird.}
+\par\pard\plain\ltrpar\qj\fi-180\li180\s26\itap0{\f0\fs18\lang1031{\*\listtag0}Abschlu\'dfpr\'fcfung des Grundstudiums; Zugang zum Hauptstudium; Voraussetzungen stehen in der StO; entspricht dem \uc1\u8222\'84Vordiplom" von Diplomstudieng\'e4ngen, S.5-8, S.13}
+\par\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s26\itap0{\f2\fs24\lang1031{\*\listtag0}}
+\sect\sectd\sbknone\colsx360\margtsxn902\margbsxn900\marglsxn1260\margrsxn1012\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f2\fs24\lang1031{\*\listtag0}}
+\sect\sectd\sbknone\colsx360\margtsxn1133\margbsxn1274\marglsxn1700\margrsxn1106\pgncont\ltrsect
+\pard\plain\ltrpar\ql\itap0{\f3\fs20\lang1033{\*\listtag0}\page }
+\par\pard\plain\ltrpar\qj\s36\itap0\tx1588{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0\tx1588{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0\tx1588{\f0\fs24\lang1031{\*\listtag0}
+\par}\pard\plain\ltrpar\qj\s36\itap0\tx1588{\f0\fs24\lang1031{\*\listtag0}}}

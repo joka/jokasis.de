@@ -1,0 +1,27 @@
+/* Spezial Hacks fuer IE */
+
+body{
+   min-width:1002px;  /*Hack für IE6 */
+   text-align:center; /* Hack für IE 6,5 */
+}
+
+#container {text-align: left;}
+
+#titlePicture {
+   margin-bottom: 6px;/*IE  Hack*/
+}
+
+
+#navigation li a {
+   width: 198px;
+   w\idth: 167px; /*IE 5 Hack */
+}
+
+#navigation li li a {
+   width: 207px; 
+   w\idth: 187px; /*IE 5 Hack */
+}
+
+.productTitle {margin-top:-3px;}
+
+

@@ -1,0 +1,282 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>S5: An Introduction</title>
+<!-- metadata -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Bluefish 1.0.7"/>
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20050728" />
+<meta name="author" content="Joscha Krutzki"/>
+
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/joka/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- embedded styles -->
+<style type="text/css" media="all">
+.anim {width: 800px; height: 470px; position: relative; margin-top: 0.5em;}
+.anim img {position: absolute; top: 0; left: 0; width: 800px; height: 470px;} 
+.farbe1 {color:red;}
+.farbe2 {color:blue;}
+.farbe3 {color:green;}
+.farbe4 {color:yellow;}
+.farbe5 {color:maroon;}
+.farbe6 {color:purple;}
+.farbe7 {color:black;}
+</style>
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+<h1>24.1.2007</h1>
+<h2>OWL-Time - eine Ontologie für Zeit</h2>
+</div>
+
+</div>
+<ol class="presentation xoxo">
+
+<li class="slide">
+<h1>OWL-Time <br />&nbsp;&nbsp;&nbsp; - eine Ontologie für Zeit</h1>
+<h4>
+Joscha Krutzki <br />
+Vorlesung: Netzbasierte Informationssysteme<br />
+FU-Berlin Institut für Informatik
+</h4>
+</li>
+
+
+<li class="slide">
+<h1>Inhalt</h1>
+<ul class="incremental">
+<li>Einführung</li>
+<li>Zeitformate in XML Schema
+<ul>
+  <li>xsd:dateTime </li>
+  <li>xsd:duration</li>
+</ul>
+</li>
+<li>OWL-Time </li>
+<li>Was bringt OWL-Time?</li>
+<li>Literatur</li>
+</ul>
+</li>
+<!--
+<li class="slide">
+<h1>Wiederholung OWL</h1>
+<ul>
+<li>RDF: Eigenschaften (Properties)zwischen Ressourcen</li>
+<li>RDFS: Klassenhierarschie, Propertie zusammenfassung von Ressourcen (Objekten) zu Mengen</li>
+<li>OWL: Weiter Möglichkeiten Objekte durch die Definition vom Mengen zu spezifizieren </li>
+<li>[point four]</li>
+<li>[point five]</li>
+</ul>
+</li>
+-->
+
+
+<li class="slide">
+<h1>Einführung</h1>
+<ul class="incremental">
+  <li>Standard Ontologien für Zeit und Space grundlegend für Semantic Web</li>
+  <li>z.B zum Modelieren Verhältnis von Zeitintervalen oder Zeitpunkten</li>
+  <li>Bisher genutzt: 
+    <ul>
+      <li>DAML-Zeit von J.R.Hobs und Feng Pan, diverse andere Ontologien</li>
+
+      <li>XML Schema primitive Datentypen, z.B. xsd:duration und xsd:dateTime </li>
+    </ul>
+  </li>
+</ul>
+<div class="handout">Test it </div>
+</li>
+
+
+
+<li class="slide">
+<h1>xsd:dateTime</h1>
+<ul>
+<li>Beispiel: <span class="farbe1">2002-05-30</span>T<span class="farbe2">09:30:10</span><span class="farbe3">-06:00</span>
+<ul>
+  <li class="farbe1" >Datum</li>
+  <li class="farbe7" >Trennzeichen T</li>  
+  <li class="farbe2"  >Uhrzeit, Sekunden auch als Float (z.B. 9:30:10.5)</li>  
+  <li class="farbe3"  >Zeitzone, ist offset zu UTC oder Z (=UTC Time)</li>  
+</ul>
+</li>
+<li class="incremental" >weglassen einzelner Teil möglich (z.B. ohne Zeitzone)</li>
+</ul>
+</li>
+
+
+<li class="slide">
+<h1>xsd:duration</h1>
+<ul> 
+<li>Beispiel: P<span class="farbe1">10Y</span><span class="farbe2">2M</span><span class="farbe3">4D</span>T<span class="farbe4">10H</span><span class="farbe5">3M</span><span class="farbe6">30S</span>
+<ul>
+  <li class="farbe7" >Startzeichen P</li>
+  <li class="farbe1"> Anzahl Jahre</li> 
+  <li class="farbe2"> Anzahl Monate </li>  
+  <li class="farbe3"> Anzahl Tage</li>
+  <li class="farbe7" > Trennzeichen T</li>
+  <li class="farbe4">Anzahl Stunden</li>
+  <li class="farbe5">Anzahl Minuten</li>
+  <li  class="farbe6">Anzahl Sekunden, auch als Float möglich (Z.B. 2.333S)</li>  
+</ul>
+</li>
+<li class="incremental" >weglassen einzelner Teil möglich (z.B. P10Y = 10 Jahre)</li>
+<li class="incremental" >Negation möglich (z.B. -P10Y = -10 Jahre)</li>
+</ul>
+</li>
+
+
+
+<li class="slide">
+<h1>OWL-Time</h1>
+<ul>
+  <li class="incremental" >W3C Working Craft vom September 2006 <br />
+  <a href="http://www.w3.org/TR/owl-time">http://www.w3.org/TR/owl-time</a> 
+  </li>
+  <li class="incremental" >Standard Ontologie für Aussagen über Zeiteinheiten </li>
+  <li class="incremental" >baut auf DAML-Zeit auf</li>
+  <li class="incremental" >kompatibel zu vorhandenen Ontologien</li>
+  <li class="incremental" >nutzt xsd:dateTime und xsd:duration</li>
+</ul>
+</li>
+<li class="slide">
+<h1>OWL-Time Grunkonzept</h1>
+<p class="anim">
+
+<img src="pix/owltime2.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime3.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime4.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime5.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime6.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime7.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltime8.png" alt="" title="Default" class="incremental" />
+</p>
+</li>
+
+
+
+<li class="slide">
+<h1>OWL-Time Beispiel</h1>
+<p class="anim">
+<img src="pix/owltimeObjekte.png" alt="" title="Default" />
+</p>
+</li>
+
+
+
+<li class="slide">
+<h1>OWL-Time ProperInterval</h1>
+<p class="anim">
+<img src="pix/owltimeProper1.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeProper2.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeProper3.png" alt="" title="Default" class="incremental" />
+</p>
+</li>
+
+
+
+
+<li class="slide">
+<h1>OWL-Time DatetimeInterval</h1>
+<p class="anim">
+<img src="pix/owltimeDatetimeinterval.png" alt="" title="Default"  />
+</p>
+</li>
+
+
+<li class="slide">
+<h1>OWL-Time DatetimeDescription</h1>
+<p class="anim">
+<img src="pix/owltimeDatetimeinterval0.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeDatetimeinterval1.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeDatetimeinterval2.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeDatetimeinterval3.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeDatetimeinterval4.png" alt="" title="Default" class="incremental" />
+<img src="pix/owltimeDatetimeinterval5.png" alt="" title="Default" class="incremental" />
+</p>
+</li>
+
+<li class="slide">
+<h1>Was bringt mir OWL-Time? </h1>
+<ul>
+  <li>Komplexe Aussagen über Zeit im Semantic Web</li>
+  <li>Nutzen bei Programmieren:
+  <ul>
+    <li>Standardkonzept zum Modelieren</li>
+    <li>OWL-Time Reasoner für Abfragen</li>
+  </ul> 
+  </li>
+</ul>
+
+
+
+<li class="slide">
+<h1>Literatur </h1>
+<ul class="incremental">
+  <li> Grundlegende Publikationen über OWL-Time: 
+  <ul>
+    <li>Jerry R. Hobbs and Feng Pan. 2004. An Ontology of Time for the Semantic Web. ACM Transactions on Asian Language Processing (TALIP): Special issue on Temporal Information Processing, Vol. 3, No. 1, March 2004, pp. 66-85 <a href="http://www.isi.edu/~pan/time/pub/hobbs-pan-TALIP04.pdf">http://www.isi.edu/~pan/time/pub/hobbs-pan-TALIP04.pdf </a>
+    </li>
+    <li>Jerry R. Hobbs and Feng Pan (Herausgeber). 2006. Time Ontology in OWL. W3C Working Draft 27 September 2006 <br /><a href="http://www.w3.org/TR/2006/WD-owl-time-20060927/">http://www.w3.org/TR/2006/WD-owl-time-20060927/</a> 
+    </li>
+  </ul>
+  </li>
+
+
+  <li>Zur Bedeutung einer Zeitontologie für das Semantic Web: 
+  <ul>
+    <li>T. Berners-Lee, J. Hendler, O. Lassila. 2001. The Semantic Web. Scientific American, 2001, Mai</li> 
+    <li>J. van Ossenbruggen, L. Hardman und L. Rutledge. 2002. Hypermedia and the Semantic Web: A Research Agenda.  Journal of Digital Information, volume 3, issue 1. Kapitel 4.3
+    </li> 
+  </ul>
+  </li> 
+</ul>
+</li>
+
+<li class="slide">
+<h1>Weiterführende Literatur</h1>
+<ul class="incremental">
+  <li>Projektseiten der Autoren von OWL-Time
+   <ul>
+    <li>OWL-Time Ontologie <a href="http://www.isi.edu/~pan/time">http://www.isi.edu/~pan/time </a>  </li>
+    <li>timezone Ontologie <a href="http://www.isi.edu/~pan/timezonehomepage.html" >http://www.isi.edu/~pan/timezonehomepage.html</a></li>
+  </ul>
+  </li>
+  <li>Subontologie time-entry und deren Nutzung in OWL-S (Webservice Ontologie): 
+  <ul>
+    <li>Feng Pan and Jerry R. Hobbs. 2004. Time in OWL-S. In Proceedings of the AAAI Spring Symposium on Semantic Web Services, Stanford University, CA, pp. 29-36, 2004. 　<br />
+    <a href="http://www.isi.edu/~pan/time/pub/pan-hobbs-AAAI-SSS04.pdf">http://www.isi.edu/~pan/time/pub/pan-hobbs-AAAI-SSS04.pdf</a> 
+    </li>
+  </ul>
+  </li>
+
+  <li>Modelierung  icalendar und Aggregation (z.B: jeden 3. Sonntag): 
+  <ul> 
+    <li>Feng Pan. 2005.  A Temporal Aggregates Ontology in OWL for the Semantic Web. In Proceedings of the AAAI Fall Symposium on Agents and the Semantic Web, Arlington, Virginia <br />
+    <a href="http://www.isi.edu/~pan/time/pub/pan-AAAI-FSS05.pdf">http://www.isi.edu/~pan/time/pub/pan-AAAI-FSS05.pdf</a> 
+    </li>
+  </ul> 
+</li>
+</ul></li>
+
+
+
+
+</ol>
+
+</body>
+</html>
