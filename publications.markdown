@@ -87,7 +87,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
 </h3>    
 
 <h3 class="title1 last">
-<a href="http://www.komfu.net">http://www.komfu.net</a>
+    <a href="http://www.komfu.net">http://www.komfu.net</a>
      <span class="item_meta quiet last">
         Wiki student collaboration, participation, (2002-2004) 
      </span> 
