@@ -56,7 +56,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
      </span> 
 </h3>  
 
-
+ddddddddd
 <h3 class="title1 last">
 <a href="talks/referatBibliographyTools/BibliographyTools.html">Bibliographie Verwaltung: zotero, bibus, bibliographix</a>
      <span class="item_meta quiet last">
