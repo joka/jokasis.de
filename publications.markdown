@@ -92,3 +92,4 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
         Wiki student collaboration, participation, (2002-2004) 
      </span> 
 </h3>      
+
