@@ -77,7 +77,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
      </span> 
 </h3>   
 
-## Website projects (University)
+## University projects
 
 <h3 class="title1 last">
 <a href="http://www.khi.jokasis.de">http://www.khi.jokasis.de</a>
@@ -89,7 +89,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
 <h3 class="title1 last">
     <a href="http://www.komfu.net">http://www.komfu.net</a>
      <span class="item_meta quiet last">
-        Wiki student collaboration, participation, (2002-2004) 
+        Wiki student collaboration, (participation, 2002-2004) 
      </span> 
 </h3>      
 
