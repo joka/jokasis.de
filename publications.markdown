@@ -11,7 +11,7 @@ und sein Einfluss auf die
 Architektur in der ersten Hälfte
 des 19. Jh. in Deutschland” 
      <span class="item_meta quiet last">
-              13.12.2008, rev 1.0, 207 Seiten
+              December 13, 2008, rev 1.0, 207 Seiten
      </span> 
 </h3><p>Die praktische Umsetzung der Lehre Durands betrachtet die Arbeit am Beispiel von Johann Friedrich Christian Hess, Stadtbaumeister in Frankfurt am Main.<br />
 (<a href="docs/Magisterarbeit.pdf">pdf</a> 54MB) &nbsp; (docbook xml <a type="application/docbook+xml" href="docs/Magisterarbeit.xml">source</a>) &nbsp; (<a href="docs/chicago-author-date_de.csl">citaton style</a> based on chicago style)
@@ -38,7 +38,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
 <h3 class="title1 last">
  <a href="http://www.khi.jokasis.de/infos/Standards_fuer_die_Museumsdokumentation.pdf/view">Standards für die Museumsdokumentation</a>
      <span class="item_meta quiet last">
-        23.03.2005, rev 1.0, 20 Seiten
+        March 23, 2005, rev 1.0, 20 Seiten
      </span> 
 </h3> 
    Dieser Bericht für die Staatlichen Museen zu Berlin soll die Notwendigkeit verdeutlichen, durch Standards die Qualität und Nutzbarkeit der Museumsdokumentation zu verbessern.
@@ -52,7 +52,7 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
 <h3 class="title1 last">
 <a href="talks/minitage/minitage.html">minitage - buildout based package manager</a>
      <span class="item_meta quiet last">
-        Lightning Talk Plone conf 2009, 29th. 10. 2009
+        Lightning Talk plone conference, October 29, 2009
      </span> 
 </h3>  
 
@@ -60,21 +60,21 @@ in: Architektur im Spannungsfeld zwischen Theorie und Praxis, FU-Berlin 2008, S.
 <h3 class="title1 last">
 <a href="talks/referatBibliographyTools/BibliographyTools.html">Bibliographie Verwaltung: zotero, bibus, bibliographix</a>
      <span class="item_meta quiet last">
-        Uni, Magistrantenkolloquium, 5th. 12 2007
+        Uni, Magistrantenkolloquium, December 5, 2007
      </span> 
 </h3> 
 
 <h3 class="title1 last">
 <a href="talks/owl-time/owl-time.html"> OWL-Time - eine Ontologie für Zeit </a>
      <span class="item_meta quiet last">
-        Uni, Netzbasierte Informationssysteme, 24th. 1. 2007
+        Uni, Netzbasierte Informationssysteme, January 24,  2007
      </span> 
 </h3>  
 
 <h3 class="title1 last">
 <a href="talks/owl-editor/protege.html">Protégé und andere Ontology Development Tools </a>
      <span class="item_meta quiet last">
-        Uni, Netzbasierte Informationssysteme, 24th. 1. 2007
+        Uni, Netzbasierte Informationssysteme, January 24th, 2007
      </span> 
 </h3>   
 
